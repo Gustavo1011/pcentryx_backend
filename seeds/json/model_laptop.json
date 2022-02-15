@@ -1,0 +1,4898 @@
+[
+  {
+    "name": "Chromebook 11 G5",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 11 G6",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 745 G5",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 11 G1",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Studio G5",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre x360 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook X360 11 G3",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "255 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook 15u G6",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 840 G6",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 850 G6",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Gaming 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Elite X2 G4",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook x360 1040",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Gaming 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14A",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Stream 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre x360 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14s",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Stream 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 470 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 11 x360 G3",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14 G6",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 11 x360 G5",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 11A G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 445",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook x360 11 G6",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14c",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion X360 11",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Gaming 16",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy X360 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Omen 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Gaming 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14s",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook x360 435 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Omen 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pro C640",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14b",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 12b",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Firefly 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14A",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 840 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook x360 1030 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook x360 1040 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 830 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 850 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Gaming 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Firefly 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "250 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 835 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 855 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Studio G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook Elite",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14ct",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Fury 17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Power 15 ",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Stream 11",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 17t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 14t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre x360 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre x360 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 13t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 11 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 630 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 640 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 650 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 450 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 440 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 430 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 830 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 840 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook x360 830 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 850 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 14t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook x360 1040 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook x360 1030 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "255 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Elite Dragonfly",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Firefly 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14a",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Firefly 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "250 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Omen 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook x360 435 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook x360 11 G7",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 11a",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 11MK",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Elite Folio 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Omen 15z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 455 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 445 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Elite Dragonfly",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 840 Aero G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 855 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 845 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "EliteBook 835 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Gaming 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "ProBook 635 Aero G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Elite X2 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14c",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14B",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14b",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Omen 16",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Victus 16t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook Pro C640",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Gaming 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "15z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 14t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14at",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Power 15 ",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Omen 17t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion Aero 13z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Studio G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Victus 16z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Omen 16",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Fury 15 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Zbook Fury 17 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14A",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 17t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "245 G8",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook 14B",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 15t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre x360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion 13t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Pavilion x360 14t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy 17t",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 15",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 13",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Envy x360 13z",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre x360 16",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Chromebook x360 14az",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Spectre X360 14",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "mt46",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "17",
+    "brand_laptop_id": 1
+  },
+  {
+    "name": "Thinkpad P51",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P71",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga 920-14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad Yoga 11e (5th Gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Tablet (3rd Gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga C930-13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E490",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Education 100e 2nd Gen",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad S340-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Education 100e 2nd Gen Chromebook",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 330S-15 AMD",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X390",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T490",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T490s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad S340-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "14w",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Education 14e",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 13s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Extreme",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T495",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad L340-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad L340-17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion Y545-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion Y540-17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T495S",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P53s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion Y540-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Yoga (4th gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P53",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P43s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion Y740-17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Yoga (4th gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Carbon (7th gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad S340-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga C940-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 14s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga C940-14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga C740-14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga C740-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad S145-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L13 Yoga",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad S145-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Carbon (8th gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Yoga (5th gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 3 11",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 15 ",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Chromebook S340-14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Chromebook C340-11",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 1-14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 Chromebook 11",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 7i 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5i 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5i 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P15s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P14s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Gaming 3i 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X13 Yoga",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Education 300e Chromebook 2nd Gen",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 15 ",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 15 ",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook Plus",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Slim 7 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 Chromebook 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P15v",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P1",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Extreme",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Gaming 3 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 13s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T15p",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 CB 13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T15g",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 1-11",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 1-14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E495",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Education 500e Chromebook",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 3 Chromebook 11",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Fold",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 14 G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X395",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 13s G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Slim 9i 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 3 11",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Slim 7 Pro 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga 9 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga 6 13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga 9i 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga 7 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 15 Gen 2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P14s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga 7 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L13 Yoga Gen 2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L13 Gen 2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 14s Yoga",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Nano",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Chromebook C340-15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 15 Gen 2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 14 G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Titanium",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X12",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Slim 7 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Carbon (9th gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Yoga (6th gen)",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P14s Gen 2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P15s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V15 G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V15 G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 15 ",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 7 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 14 G3",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 15 G3",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 Pro 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 Pro 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad L3 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad S540-13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion Pro 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion S7 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V14 G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad L3 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V17 G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Creator 5 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga 6 13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X13 Yoga",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook 13s G3",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad E15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "ThinkBook Plus G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Gaming 3 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion S7 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P14s Gen 2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P1",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T15g",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Flex 5 CB 13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 7 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion Pro 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Legion 5 17",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "300e Windows 2nd Gen",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T15p",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Education 100e 2nd Gen",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "14w",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad L13 Gen 2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "300w",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "100w",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "500w",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad P15v",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X13",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad T14s",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Thinkpad X1 Extreme",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "V14 G2",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad 3 CB 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Yoga Slim 7 Carbon",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Slim 7 Pro 14",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Gaming 3 15",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "Ideapad Slim 7 Pro 16",
+    "brand_laptop_id": 2
+  },
+  {
+    "name": "XPS 15 9560",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 9370",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 11 3190 Education",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 11 3190 Education 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude Rugged 14 5424",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude Rugged 14 5420",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude Rugged 14 7424 Extreme",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 9380",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G5 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3580",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Chromebook 11 3100",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Chromebook 11 3100",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3583",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 7400 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 5500",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G5 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 5300 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 5300",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 5400",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 3301",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 7300",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G3 15 3590",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 11 3195 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 15 7590",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 7400",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 7390 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 13 7391 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 7390",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3593",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 5400 Chrome",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3595",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 5593",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5493",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5491 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 17 7791 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 17 3793",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude Rugged 12 7220 Extreme",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 9300",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 3310 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 3310 ",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 3493",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 15 9500",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 5310 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G5 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G5 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware m15 R3",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G3 15 3500",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 17",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 5410",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 17 9700",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 7405 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 7310",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 7500 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 13 7306 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 13 7306 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5406 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 7506 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 7400",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 17 7706 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 9310",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 9310 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G7 15 7500",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 13 5301",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 15 7500",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 3510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 3410",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 5510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 5310",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 5505",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 7410",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 5511",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 12 7210 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware Area-51m R2",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 5411",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 9410 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 7501",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5400 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5402",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 7410 Chromebook Enterprise",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 13 7300 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 5501",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 5502",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3505",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 7490",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 15 3500",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 14 3400",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 7320",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 5320",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 5420",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 5520",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 7420",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 7520",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3501",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3502",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 11 3120",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware m15 R4",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 13 9305",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 13 3320",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 3420",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 3520",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 9420",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 13 5310",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 5510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 7415 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 9520",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 5515",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 15 5510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 17 9710",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 14 5410",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 17",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5410",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 14 5421",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 16 Plus 7610",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 15 7510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Gaming G15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware m15 R5",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 17",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Precision 15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "XPS 15 9510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware m15 R6",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware x17 R1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware x15 R1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 13 5310",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude 15 5521",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3511",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Vostro 15 3510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 15 3510",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5418",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Inspiron 14 5410 2-in-1",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude Rugged 14 5430",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Latitude Rugged 13 7330",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Chromebook 11 3110",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Chromebook 11 3110",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware X15",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Alienware X17",
+    "brand_laptop_id": 3
+  },
+  {
+    "name": "Chromebook Flip C214",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF FX505",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G531",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus GU502",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G531",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 F512",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "2-in-1 Q406",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF FX505",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix GL531",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "Chromebook C204",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus GU502",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "StudioBook Pro 15 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF A15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 UX433",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Pro Duo UX581",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "Business P5440",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 X512",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF A15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF A17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 15 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus S15 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus G14 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 Q407",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 F512",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 14 M413",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 17 S712",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG M15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ExpertBook B9450",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S15 S533",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Flip 14 J401",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus S15 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Duo UX481",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 UX425",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Flip 14 TM420",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook UX325",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S15 S513",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus S17 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook E410",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Flip 13 UX363",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 R564",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus G14 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S14 S433",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook L410",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "15 X509",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG M15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG M15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook S UX393",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Flip 14 TP412",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ExpertBook P2451",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S14 S433",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 S532",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S15 S533",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook UX325",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "Chromebook Flip 14 C436",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 F513",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 17 X712",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Flip 13 UX363",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Flip S UX371",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 UX425",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 S512",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF A17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 K513",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S13 S333",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Pro 15 UX535",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF FX505",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 UX435",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ExpertBook B9450",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "15 Q537",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook L510",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "11 L210",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Flip 15 UM562",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 F515",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 15 Q538",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "2-in-1 Q507",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Flip 15 Q528",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Duo UX482",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Duo UX482",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S14 S435",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus G14 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG X13 Flow",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "2-in-1 BR1100F",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ExpertBook R11",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 15 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus Duo 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Flip 14 TP470",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus Duo 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus Duo 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF Dash 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF Dash 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Flip 14 TM420",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 F515",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S17 F712",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S15 S513",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 M515",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 UM425",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook S17 S712",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 13 UM325",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 14 F415",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 17 K712",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Pro Duo 15 OLED UX582",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF A15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus S17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus S17 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus M16 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 14 D415",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 Q408",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF Dash 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus M16 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 X512",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus G14 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "Chromebook Flip CX5",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Flip 14 TP470",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 14 UM425",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 K513",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "StudioBook ProArt 16",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 14 X415",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "StudioBook ProArt 16",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "TUF F17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 16X",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "StudioBook ProArt 16",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Pro 15 OLED",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook Pro 15 OLED",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ExpertBook B1 B1400",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook 13 OLED BX325",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "Chromebook CX1",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Pro Duo 15 UX582",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Pro Duo 15 UX582",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ASUS VivoBook Pro 14 OLED",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ExpertBook B1 B1500",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "VivoBook 15 R565",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 15 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix Scar 15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G17",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Strix G15",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ROG Zephyrus S17 ",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "ZenBook Pro 15 UM535",
+    "brand_laptop_id": 4
+  },
+  {
+    "name": "MacBook Air",
+    "brand_laptop_id": 5
+  },
+  {
+    "name": "MacBook Pro 16 (2019)",
+    "brand_laptop_id": 5
+  },
+  {
+    "name": "MacBook Pro 13",
+    "brand_laptop_id": 5
+  },
+  {
+    "name": "MacBook Air",
+    "brand_laptop_id": 5
+  },
+  {
+    "name": "MacBook Pro 16",
+    "brand_laptop_id": 5
+  },
+  {
+    "name": "MacBook Pro 14",
+    "brand_laptop_id": 5
+  },
+  {
+    "name": "Chromebook Spin 11 CP311",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook 11",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Helios 300 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 7 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 511",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook 512",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook 311 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Triton 500 PT515",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 13",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 1 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook 315",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook 14 CB714",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook CB315",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 3 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "CyberPowerPC Tracer IV Slim R",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook CB315",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Helios 300 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Triton 500 PT515",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate P2 TMP214",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 13",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate B3",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Spin 3 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate Spin B3",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Spin 5 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Helios 300 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Triton 300 PT315",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "ConceptD 3 Ezel CC314",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook 14 314",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 11 CP311",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook 14 CB314",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 13 CP713",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 3 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Enduro N3 EN314",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Spin 3 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 5 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "ConceptD 3 Ezel CC315",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "CyberPower Tracer IV Slim",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Porsche Design Book RS ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Porsche Design Book RS ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 13",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3X 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate P4",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 1 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Spin 3 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 11 CP311",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate P6",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 15 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Spin 1 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 1 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 1 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 3 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 5 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 511",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 512",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 1 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 16",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 3 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Spin 1 ",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Triton 500 PT516",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Triton 300 PT315",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate P2 TMP214",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift 3 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook C871",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate P2 TMP215",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook CB317",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 13 CP713",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Swift X 14",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Nitro 5 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Triton 300 PT314",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire 3 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Helios 300 15",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Predator Helios 300 17",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Spin 512",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Aspire Vero",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate B3",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate Spin B3",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate P2 TMP214",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "TravelMate P2 TMP215",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "ConceptD 5 Pro",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Enterprise Spin 13 CP713",
+    "brand_laptop_id": 6
+  },
+  {
+    "name": "Chromebook Plus XE521QAB",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Notebook 9 NP930SBE",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Notebook 9 Pro NP930MBE",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Ion 15",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Chromebook Galaxy",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Ion 13",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Ion 15",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book S",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Chromebook Galaxy 2",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Chromebook 4 XE310",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Pro 360 13",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Pro 360 15",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Pro 13",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Pro 15",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Flex 2 Alpha",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Chromebook Galaxy Go 14",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book 15",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book Odyssey 15 ",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "Galaxy Book 15",
+    "brand_laptop_id": 7
+  },
+  {
+    "name": "SX14",
+    "brand_laptop_id": 8
+  },
+  {
+    "name": "SX12",
+    "brand_laptop_id": 8
+  },
+  {
+    "name": "Lifebook E546",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook P727",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook U939",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook E459",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook U729",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook Tablet U939X",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook U7511",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook U7411",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook E5511",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Lifebook E5411",
+    "brand_laptop_id": 9
+  },
+  {
+    "name": "Gaming Raider GE63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 14 A10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Prestige 14 A10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GL75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 15 A10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 17M A9",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 14 A10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GL63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 15M A10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GE75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GP65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GP65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GP65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GL75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Titan DT GT76 ",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WF75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WF65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WF65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GL65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 14 B10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 15 A10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63 ",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Alpha 17",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Prestige 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit E14 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit E14 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Prestige 14 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Prestige 14 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Stealth 15M",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit B14",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit E15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit E15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit B15",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Prestige 14 EVO",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 14 B11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GL75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 14 B11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF65",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GP66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF75",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit E13 Flip Evo",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63 ",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WF66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Katana GF76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Katana GF66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z16 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Crosshair 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GP66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 17 B11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GP66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Pulse GL76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Crosshair 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Crosshair 17 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WF66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GP76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 17 B11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 17 B11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit E16 Flip",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Summit E16 Flip",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Crosshair 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Crosshair 17 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63 ",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Pulse GL66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Stealth 15M",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Crosshair 17 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WF76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WS76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WS76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Workstation WF76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator M16 ",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator M16 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Sword 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 14 B5M",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 15",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Prestige 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Modern 15 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Delta 15",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Alpha 17",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Alpha 15",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z16 A11",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Vector GP76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Vector GP76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Vector GP76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Crosshair 15 B12U",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Pulse GL76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Pulse GL76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Pulse GL66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Pulse GL66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Katana GF66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Katana GF76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator M16",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z17",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z17",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z17",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z16P",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z16P",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator Z16P",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming GF63",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Raider GE76",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS77",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS77",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS77",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS77",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS77",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Creator 15 A10",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Gaming Stealth GS66",
+    "brand_laptop_id": 10
+  },
+  {
+    "name": "Aero 15 Classic",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15 OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15 OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15 OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 7",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15S OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15S OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15G",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15G",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15G",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15P",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15 OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15G",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15G",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "A5",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15 OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 17 HDR",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 17 HDR",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15 OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aero 15 OLED",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "G5",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "G5",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "G5",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15P",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15P",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15P",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 17G",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 17G",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 15P",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "U4 ",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 5",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Aorus 5",
+    "brand_laptop_id": 11
+  },
+  {
+    "name": "Surface Laptop 3 15 AMD",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Pro 7",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Book 3 13.5",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Book 3 15",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Laptop 3 13.5 Intel",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Laptop Go",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Go 2",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Laptop",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Laptop",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Laptop Studio",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Pro 8",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Laptop",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Surface Laptop",
+    "brand_laptop_id": 12
+  },
+  {
+    "name": "Toughbook 20",
+    "brand_laptop_id": 13
+  },
+  {
+    "name": "Toughbook 33",
+    "brand_laptop_id": 13
+  },
+  {
+    "name": "Toughbook CF-XZ6",
+    "brand_laptop_id": 13
+  },
+  {
+    "name": "Toughbook 55",
+    "brand_laptop_id": 13
+  },
+  {
+    "name": "NB50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NH58",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC70",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC70",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC70",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PB71",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "X170SM",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NV41",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NS50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "X170KM",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "X170KM",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NH77",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NH77",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NH58",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NH58",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NH77",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "NH58",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC70",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC70",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC70",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "PC50",
+    "brand_laptop_id": 14
+  },
+  {
+    "name": "Blade 15 2019",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade Pro 17 (2019)",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade 15 2020",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade Stealth",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Medion Erazer P15603",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade 15 Studio Edition",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade 15 2020",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade Pro 17 (2020)",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade Stealth",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Book 13",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade 15 2021",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade 15 2021",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade Pro 17 (2021)",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade 15 2021",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "Blade 14 2021",
+    "brand_laptop_id": 15
+  },
+  {
+    "name": "gram 17",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 17",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 14",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 14 2-in-1",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 15",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 15",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 17 ",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 14",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 16",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 16 2-in-1",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 14 2-in-1",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 13",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 17",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 15",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 15",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 15",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "Ultra 17",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 17",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "gram 15",
+    "brand_laptop_id": 16
+  },
+  {
+    "name": "Satellite Pro L50-G",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Tecra A40",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Portege X30-G",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Portege X40",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Portege X40",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Portege X30L",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Satellite Pro Pro C40-H",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Satellite Pro Pro C50-H",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Tecra A30",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Tecra A40",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Tecra A50",
+    "brand_laptop_id": 17
+  },
+  {
+    "name": "Book RS ",
+    "brand_laptop_id": 18
+  },
+  {
+    "name": "Book RS ",
+    "brand_laptop_id": 18
+  },
+  {
+    "name": "Erazer P15603",
+    "brand_laptop_id": 19
+  },
+  {
+    "name": "Akoya P15645",
+    "brand_laptop_id": 19
+  },
+  {
+    "name": "Akoya S15447",
+    "brand_laptop_id": 19
+  },
+  {
+    "name": "Pro 15.6",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Mi Notebook 15.6",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Mi Gaming 15.6",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Air 13",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "RedmiBook 14",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Air 13",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Mi Gaming 15.6",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Mi Notebook 12.5",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "RedmiBook 14",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Mi Notebook Ruby",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "RedmiBook 14 II",
+    "brand_laptop_id": 20
+  },
+  {
+    "name": "Honor MagicBook AMD",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "MateBook 14",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "Honor MagicBook Pro",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "Honor MagicBook 15",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "MateBook X",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "MateBook D 14",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "MateBook D 16",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "Honor MagicBook 15",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "Honor MagicBook 14",
+    "brand_laptop_id": 21
+  },
+  {
+    "name": "Pixelbook Slate",
+    "brand_laptop_id": 22
+  },
+  {
+    "name": "Pixelbook Go",
+    "brand_laptop_id": 22
+  },
+  {
+    "name": "NLCC",
+    "brand_laptop_id": 23
+  },
+  {
+    "name": "GK5NRFO",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5MQ8Y",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "PF5NU1G",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GK5MR0O",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GK5NR0V",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5NG0Y",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7NG0R",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5NG0O",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7NG0P",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7ZG8P",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5ZG8Y",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7ZG8M",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7MG7M",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GK5CP5X",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "PL5TU1B",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7ZN7M",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5TG7W",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5NG8W",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5ZG7Y",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7ZG7P",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "PH4TUX1",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7ZG7M",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7TG8P",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5TG7Y",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5TG8Y",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM5TG8W",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "GM7TG8M",
+    "brand_laptop_id": 24
+  },
+  {
+    "name": "LapBook Air",
+    "brand_laptop_id": 25
+  },
+  {
+    "name": "S410",
+    "brand_laptop_id": 26
+  },
+  {
+    "name": "V110",
+    "brand_laptop_id": 26
+  },
+  {
+    "name": "X500",
+    "brand_laptop_id": 26
+  },
+  {
+    "name": "B300 G7",
+    "brand_laptop_id": 26
+  },
+  {
+    "name": "Admiror 14",
+    "brand_laptop_id": 27
+  },
+  {
+    "name": "Gateway GWTN156",
+    "brand_laptop_id": 28
+  },
+  {
+    "name": "Gateway GWTN141",
+    "brand_laptop_id": 28
+  },
+  {
+    "name": "Laptop 13",
+    "brand_laptop_id": 29
+  }
+]

@@ -1,0 +1,3 @@
+[bandit]
+exclude: ./env,./tests,./seeds/oauth.py
+skips: B104

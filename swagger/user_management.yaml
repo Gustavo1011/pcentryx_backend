@@ -1,0 +1,76 @@
+swagger: "2.0"
+
+info:
+  title: "User Management API"
+  version: "1.0"
+
+basePath: /user_management
+
+paths:
+  /oauth/autorize:
+    get:
+      operationId: modules.oauth.authorize_get
+      description: Test
+      parameters:
+        - in: query
+          name: response_type
+          type: string
+          description: Response Type
+        - in: query
+          name: client_id
+          type: string
+          description: OAuth Client ID
+        - in: query
+          name: redirect_uri
+          type: string
+          description: OAuth Redirect URI
+        - in: query
+          name: scope
+          type: string
+          description: OAuth Scope
+      responses:
+        "200":
+          description: List of users
+          schema:
+            type: array
+            items:
+              type: object
+              properties:
+                id:
+                  type: integer
+                  format: int64
+                username: { type: string } 
+                email: { type: string } 
+                created_at: { type: string } 
+                updated_at: { type: string } 
+                deleted: { type: boolean } 
+    post:
+      operationId: modules.oauth.authorize_post
+      description: Test
+      parameters:
+        - in: body
+          name: body
+          description: User to add
+          required: true
+          schema:
+            type: object
+            required:
+              - confirm
+            properties:
+              confirm: { type: string } 
+      responses:
+        "200":
+          description: List of users
+          schema:
+            type: array
+            items:
+              type: object
+              properties:
+                id:
+                  type: integer
+                  format: int64
+                username: { type: string } 
+                email: { type: string } 
+                created_at: { type: string } 
+                updated_at: { type: string } 
+                deleted: { type: boolean } 

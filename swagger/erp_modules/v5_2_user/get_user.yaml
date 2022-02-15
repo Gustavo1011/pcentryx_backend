@@ -1,0 +1,60 @@
+tags:
+  - User Management
+operationId: modules.v5_2_user.get_user
+description: Obtener información de un usuario en específico
+parameters:
+  - in: header
+    name: Authorization
+    description: an authorization header
+    required: true
+    type: string
+  - in: path
+    type: integer
+    required: true
+    name: user_id
+responses:
+  "200":
+    description: Successfully output
+    schema:
+      type: object
+      properties:
+        errors: { type: boolean }
+        message: { type: string }
+        result:
+          type: array
+          items:
+            type: object
+            properties:
+              created_at: { type: string }
+              updated_at: { type: string }
+              deleted: { type: boolean }
+              id: { type: integer }
+              name: { type: string }
+              lastname: { type: string }
+              username: { type: string }
+              password: { type: string }
+              email: { type: string }
+              identification_number: { type: string }
+              phone_number: { type: string }
+              company_id: { type: integer }
+        pagination: { type: boolean }
+  "400":
+    description: Error output
+    schema:
+      type: object
+      properties:
+        errors:
+          type: array
+          items:
+            type: object
+            properties:
+              field: { type: string }
+              message: { type: string }
+              extra:
+                type: object
+                properties:
+                  of_field: { type: string }
+                  index: { type: integer }
+        message: { type: string }
+        result: { type: boolean }
+        pagination: { type: boolean }

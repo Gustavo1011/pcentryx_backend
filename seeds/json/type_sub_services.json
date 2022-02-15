@@ -1,0 +1,51 @@
+[
+  {
+    "type_service_name": "Reparación",
+    "type_sub_service": {
+      "name": "Componente Averiado"
+    }
+  },
+  {
+    "type_service_name": "Reparación",
+    "type_sub_service": {
+      "name": "Errores en programas"
+    }
+  },
+  {
+    "type_service_name": "Reparación",
+    "type_sub_service": {
+      "name": "Errores en Windows"
+    }
+  },
+  {
+    "type_service_name": "Reparación",
+    "type_sub_service": {
+      "name": "Lentitud"
+    }
+  },
+  {
+    "type_service_name": "Reparación",
+    "type_sub_service": {
+      "name": "Diagnóstico"
+    }
+  },
+  {
+    "type_service_name": "Mantenimiento",
+    "type_sub_service": {
+        "name": "Diagnóstico de Mantenimiento"
+    }
+  },
+  {
+    "type_service_name": "Mantenimiento",
+    "type_sub_service": {
+      "name": "Paquete Básico"
+    }
+  },
+  {
+    "type_service_name": "Mantenimiento",
+    "type_sub_service": {
+        "name": "Paquete Completo"
+    }
+  }
+]
+  

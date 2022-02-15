@@ -1,0 +1,336 @@
+# Translations template for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-08-27 00:43-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+msgid "Required field"
+msgstr ""
+
+msgid "Unknown field"
+msgstr ""
+
+msgid "Field '{0}' is required"
+msgstr ""
+
+msgid "Depends on these values: {constraint}"
+msgstr ""
+
+msgid "{0} must not be present with '{field}'"
+msgstr ""
+
+msgid "Field should not be empty"
+msgstr ""
+
+msgid "Must be of {constraint} type"
+msgstr ""
+
+msgid "Length of list should be {constraint}, it is {0}"
+msgstr ""
+
+msgid "Min length is {constraint}"
+msgstr ""
+
+msgid "Max length is {constraint}"
+msgstr ""
+
+msgid "Value does not match regex '{constraint}'"
+msgstr ""
+
+msgid "Min value is {constraint}"
+msgstr ""
+
+msgid "Max value is {constraint}"
+msgstr ""
+
+msgid "Unallowed value {value}"
+msgstr ""
+
+msgid "Unallowed values {0}"
+msgstr ""
+
+msgid "Field '{field}' cannot be coerced"
+msgstr ""
+
+msgid "Field '{field}' cannot be renamed"
+msgstr ""
+
+msgid "Field is read-only"
+msgstr ""
+
+msgid "Default value for '{field}' cannot be set: {0}"
+msgstr ""
+
+msgid "Mapping doesn't validate subschema: {0}"
+msgstr ""
+
+msgid "One or more sequence-items don't validate: {0}"
+msgstr ""
+
+msgid "One or more properties of a mapping  don't validate: {0}"
+msgstr ""
+
+msgid "One or more values in a mapping don't validate: {0}"
+msgstr ""
+
+msgid "One or more definitions validate"
+msgstr ""
+
+msgid "None or more than one rule validate"
+msgstr ""
+
+msgid "No definitions validate"
+msgstr ""
+
+msgid "One or more definitions don't validate"
+msgstr ""
+
+msgid "Invalid value format"
+msgstr ""
+
+msgid "Invalid request"
+msgstr ""
+
+msgid "Missing username parameter"
+msgstr ""
+
+msgid "Missing password parameter"
+msgstr ""
+
+msgid "Bad username"
+msgstr ""
+
+msgid "Bad password"
+msgstr ""
+
+msgid "The username already exists"
+msgstr ""
+
+msgid "The email already exists"
+msgstr ""
+
+msgid "The name already exists"
+msgstr ""
+
+msgid "ID must only contain an integer"
+msgstr ""
+
+msgid "The record was not found"
+msgstr ""
+
+msgid "The record has been deleted successfully"
+msgstr ""
+
+msgid "The search has been successful"
+msgstr ""
+
+msgid "Registration has been successful"
+msgstr ""
+
+msgid "The update has been successful"
+msgstr ""
+
+msgid "The delete has been successful"
+msgstr ""
+
+msgid "The manufacturer was not found"
+msgstr ""
+
+msgid "The brand was not found"
+msgstr ""
+
+msgid "The product subcategory was not found"
+msgstr ""
+
+msgid "The product category was not found"
+msgstr ""
+
+msgid "ID should not be repeated"
+msgstr ""
+
+msgid "The permission type was not found"
+msgstr ""
+
+msgid "The country was not found"
+msgstr ""
+
+msgid "The permission was not found"
+msgstr ""
+
+msgid "The company was not found"
+msgstr ""
+
+msgid "The type permission was not found"
+msgstr ""
+
+msgid "The permission file was not found"
+msgstr ""
+
+msgid "The provider country was not found"
+msgstr ""
+
+msgid "The product company was not found"
+msgstr ""
+
+msgid "The minimum amount %(x)s exceeds the maximum amount %(y)s"
+msgstr ""
+
+msgid "The discounts are superimposed"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Merchandising"
+msgstr ""
+
+msgid "Transport"
+msgstr ""
+
+msgid "Storage"
+msgstr ""
+
+msgid "The product cannot be non-storable by itself"
+msgstr ""
+
+msgid "The company ID is repeated in the same form"
+msgstr ""
+
+msgid "The permission ID is repeated in the same form"
+msgstr ""
+
+msgid "The product ID is repeated in the same form"
+msgstr ""
+
+msgid "Internal error. Please contact the administrator."
+msgstr ""
+
+msgid "Access token generated successfully"
+msgstr ""
+
+msgid "The contact does not belong to the provider"
+msgstr ""
+
+msgid "United State Dollar"
+msgstr ""
+
+msgid "Euro"
+msgstr ""
+
+msgid "Venezuelan bolívar"
+msgstr ""
+
+msgid "ACH"
+msgstr ""
+
+msgid "Credit card"
+msgstr ""
+
+msgid "The due date field is required"
+msgstr ""
+
+msgid "The due date field must be after the issue date field"
+msgstr ""
+
+msgid "Login not available"
+msgstr ""
+
+msgid "Pending review"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Inventory"
+msgstr ""
+
+msgid "Internal consumption"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Specific client"
+msgstr ""
+
+msgid "Partial"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+msgid "The manufacturer code already exists"
+msgstr ""
+
+msgid "No relationship was found between permission and its type"
+msgstr ""
+
+msgid "The product file was not found"
+msgstr ""
+
+msgid "Countries are required"
+msgstr ""
+
+msgid "The currency was not found"
+msgstr ""
+
+msgid "The provider was not found"
+msgstr ""
+
+msgid "The provider is not related to the country"
+msgstr ""
+
+msgid "The payment number already exists"
+msgstr ""
+
+msgid "The product was not found"
+msgstr ""
+
+msgid "The tax identification number is required"
+msgstr ""
+
+msgid "The tax identification number already exists"
+msgstr ""
+
+msgid "Product code should not be repeated"
+msgstr ""
+
+msgid "This field is required"
+msgstr ""
+
+msgid "The end date field must be after the start date field"
+msgstr ""
+
+msgid "Id must be sent"
+msgstr ""
+
+msgid "Verification completed successfully"
+msgstr ""
+
+msgid "The provider is national in type and no country is required"
+msgstr ""
+
+msgid "The country is not enabled by the provider"
+msgstr ""

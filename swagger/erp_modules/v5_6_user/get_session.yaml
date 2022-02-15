@@ -1,0 +1,55 @@
+tags:
+  - User Management
+operationId: modules.v5_6_user.get_session
+description:  Obtener información de la sesión
+parameters:
+  - in: header
+    name: Authorization
+    description: an authorization header
+    required: true
+    type: string
+responses:
+  "200":
+    description: Successfully output
+    schema:
+      type: object
+      properties:
+        errors: { type: boolean }
+        message: { type: string }
+        result:
+          type: array
+          items:
+            type: object
+            properties:
+              created_at: { type: string }
+              updated_at: { type: string }
+              deleted: { type: boolean }
+              id: { type: integer }
+              core_id: { type: integer }
+              name: { type: string }
+              lastname: { type: string }
+              username: { type: string }
+              password: { type: string }
+              email: { type: string }
+              is_enabled: { type: boolean }
+        pagination: { type: boolean }
+  "400":
+    description: Error output
+    schema:
+      type: object
+      properties:
+        errors:
+          type: array
+          items:
+            type: object
+            properties:
+              field: { type: string }
+              message: { type: string }
+              extra:
+                type: object
+                properties:
+                  of_field: { type: string }
+                  index: { type: integer }
+        message: { type: string }
+        result: { type: boolean }
+        pagination: { type: boolean }

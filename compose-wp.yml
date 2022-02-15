@@ -1,0 +1,28 @@
+version: "3.7"
+services:
+  local:
+    container_name: local
+    image: erp_backend_local_api
+    build: .
+    env_file:
+        - ./.env
+    ports:
+      - "${APP_PORT}:${APP_PORT}"
+    volumes:
+      - .:/app
+
+  postgres:
+    container_name: postgres
+    restart: always
+    image: postgres:10
+    env_file:
+        - ./.env
+    volumes:
+      - flask-app-db:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    command: ["postgres", "-c", "log_statement=all"]
+
+volumes:
+  flask-app-db:
+    name: flask-app-db

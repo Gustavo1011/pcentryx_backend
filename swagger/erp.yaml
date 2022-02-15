@@ -1,0 +1,24 @@
+swagger: "2.0"
+info:
+  title: "ERP API"
+  version: "1.0"
+basePath: /erp
+tags:
+- name: User Maintenance
+- name: User Management
+- name: User Access
+paths:
+  /login/:
+    $ref: erp_modules/users/login.yaml
+  /v5.1/users/{user_id}:
+    get:
+      $ref: erp_modules/v5_1_user/get_user.yaml
+  /v5.2/users/{user_id}:
+    get:
+      $ref: erp_modules/v5_2_user/get_user.yaml
+  /v5.6/apis/users/get_session:
+    get:
+      $ref: erp_modules/v5_6_user/get_session.yaml
+  /v5.6/apis/users/{user_id}:
+    get:
+      $ref: erp_modules/v5_6_user/get_user.yaml

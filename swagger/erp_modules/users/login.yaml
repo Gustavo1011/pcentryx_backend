@@ -1,0 +1,28 @@
+post:
+  tags:
+  - User Access
+  description: Login
+  parameters:
+    - in: header
+      name: timezone
+      description: Client time zone
+      required: false
+      default: "UTC"
+      type: string
+    - in: body
+      name: body
+      description: User to identify
+      required: true
+      schema:
+        type: object
+        required:
+          - username
+          - password
+        properties:
+          username: { type: string } 
+          password: { type: string } 
+  responses:
+    "200":
+      description: User
+      schema:
+        $ref: user_definition.yaml

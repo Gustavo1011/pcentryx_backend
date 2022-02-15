@@ -1,0 +1,1171 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-08-27 00:43-0500\n"
+"PO-Revision-Date: 2019-08-27 00:44-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+msgid "The start date must be sent"
+msgstr "La fecha inicial debe ser enviado"
+
+msgid "The end date must be sent"
+msgstr "la fecha final debe ser enviado"
+
+msgid "The company does not exist"
+msgstr "La compañia no existe"
+
+msgid "The Type requisition does not exist"
+msgstr "El tipo de requisición no existe"
+
+msgid "The Requisition state does not exist"
+msgstr "El estado de requisición no existe"
+
+msgid "The requisition_id was not found"
+msgstr "El requisition_id no fue encontrado"
+
+msgid "Page must also be 0"
+msgstr "La página también debe ser 0"
+
+msgid  "Limit must also be 0"
+msgstr "El límite también debe ser 0"
+
+msgid "The client has not been found"
+msgstr "No se ha encontrado el cliente"
+
+msgid "The product has not been found"
+msgstr "No se ha encontrado el producto"
+
+msgid "The company has not been found"
+msgstr "No se ha encontrado la compañia"
+
+msgid "The product company is not enabled"
+msgstr "La compañia del producto no está habilitada"
+
+msgid "The type product was not found"
+msgstr "No se encontró el tipo de producto"
+
+msgid "The type communication was not found"
+msgstr "No se encontró el tipo de comunicación"
+
+msgid "Field not required"
+msgstr "Campo no requerido"
+
+msgid "The brand has not been found"
+msgstr "No se ha encontrado la marca"
+
+msgid "This name already exists"
+msgstr "Este nombre ya existe"
+
+msgid "The provider_quotation_id was not found"
+msgstr "El provider_quotation_id no fue encontrado"
+
+msgid "The information was obtained successfully"
+msgstr "La información se obtuvo con éxito"
+
+msgid "This provider is not enabled"
+msgstr "Este proveedor no esta habilitado"
+
+msgid "This country is not enabled for this provider"
+msgstr "Este país no esta habilitado para este proveedor"
+
+msgid "The country should be the same as the origin country of provider"
+msgstr "El país debería ser igual al país de procedencia del proveedor"
+
+msgid "This provider has a history"
+msgstr "Este proveedor tiene un historial"
+
+msgid "This provider is not enabled"
+msgstr "Este proveedor no esta habilitado"
+
+msgid "The product_provider_country_id was not found"
+msgstr "La relación producto proveedor país no fue encontrada"
+
+msgid "This agent has a history"
+msgstr "Este agente tiene un historial"
+
+msgid "Only one main contact"
+msgstr "Solo un contacto principal"
+
+msgid "Only should exist a main address for country"
+msgstr "Solo debería existir una dirección principal por país"
+
+msgid "There is not a main address for country"
+msgstr "No hay una dirección principal por país"
+
+msgid "Only should exist a main contact"
+msgstr "Solo debería existir un contacto principal"
+
+msgid "There is not a main contact"
+msgstr "No hay un contacto principal"
+
+msgid "Required field"
+msgstr "Campo requerido"
+
+msgid "Unrequired field"
+msgstr "Campo no requerido"
+
+msgid "Field is not required"
+msgstr "Campo no requerido"
+
+msgid "Unknown field"
+msgstr "Campo desconocido"
+
+msgid "Field '{0}' is required"
+msgstr "El campo '{0}' es requerido"
+
+msgid "Depends on these values: {constraint}"
+msgstr "Depende de estos valores: {constraint}"
+
+msgid "{0} must not be present with '{field}'"
+msgstr "{0} no debe estar presente con '{field}'"
+
+msgid "Field should not be empty"
+msgstr "El campo no debe estar vacío"
+
+msgid "Must be of {constraint} type"
+msgstr "Debe ser del tipo {constraint}"
+
+msgid "Length of list should be {constraint}, it is {0}"
+msgstr "La longitud de la lista debe ser {constraint}, es {0}"
+
+msgid "Min length is {constraint}"
+msgstr "La longitud mínima es {constraint}"
+
+msgid "Max length is {constraint}"
+msgstr "La longitud máxima es {constraint}"
+
+msgid "Value does not match regex '{constraint}'"
+msgstr "El valor no coincide con la expresión regular '{constraint}'"
+
+msgid "Min value is {constraint}"
+msgstr "El valor mínimo es {constraint}"
+
+msgid "Max value is {constraint}"
+msgstr "El valor máximo es {constraint}"
+
+msgid "Unallowed value {value}"
+msgstr "Valor no permitido {value}"
+
+msgid "Unallowed values {0}"
+msgstr "Valores no permitidos {value}"
+
+msgid "Field '{field}' cannot be coerced"
+msgstr "El campo '{field}' no se puede forzar"
+
+msgid "Field '{field}' cannot be renamed"
+msgstr "El campo '{field}' no se puede renombrar"
+
+msgid "Field is read-only"
+msgstr "El campo es de solo lectura"
+
+msgid "Default value for '{field}' cannot be set: {0}"
+msgstr "El valor por defecto para '{field}' no se puede establecer: {0}"
+
+msgid "Mapping doesn't validate subschema: {0}"
+msgstr "El mapeo no valida el subesquema: {0}"
+
+msgid "One or more sequence-items don't validate: {0}"
+msgstr "Uno o más elementos de secuencia no se validan: {0}"
+
+msgid "One or more properties of a mapping  don't validate: {0}"
+msgstr "Una o más propiedades de un mapeo no validan: {0}"
+
+msgid "One or more values in a mapping don't validate: {0}"
+msgstr "Uno o más valores en un mapeo no validan: {0}"
+
+msgid "One or more definitions validate"
+msgstr "Una o más definiciones validan"
+
+msgid "None or more than one rule validate"
+msgstr "Ninguna o más de una regla validan"
+
+msgid "No definitions validate"
+msgstr "No hay definiciones por validar"
+
+msgid "One or more definitions don't validate"
+msgstr "Una o más definiciones no validan"
+
+msgid "Invalid value format"
+msgstr "Formato de valor no válido"
+
+msgid "Invalid request"
+msgstr "Solicitud inválida"
+
+msgid "Missing username parameter"
+msgstr "Falta el parámetro de nombre de usuario"
+
+msgid "Missing password parameter"
+msgstr "Falta el parámetro de contraseña"
+
+msgid "Bad username"
+msgstr "Nombre de usuario incorrecto"
+
+msgid "Bad password"
+msgstr "Contraseña incorrecta"
+
+msgid "The username already exists"
+msgstr "El nombre de usuario ya existe"
+
+msgid "The email already exists"
+msgstr "El email ya existe"
+
+msgid "The name already exists"
+msgstr "El nombre ya existe"
+
+msgid "ID must only contain an integer"
+msgstr "La ID solo debe contener un número entero"
+
+msgid "The record was not found"
+msgstr "No se encontró el registro"
+
+msgid "The record has been deleted successfully"
+msgstr "El registro ha sido eliminado con éxito"
+
+msgid "The search has been successful"
+msgstr "La búsqueda ha sido exitosa"
+
+msgid "Registration has been successful"
+msgstr "El registro ha sido exitoso"
+
+msgid "The update has been successful"
+msgstr "La actualización ha sido exitosa"
+
+msgid "The delete has been successful"
+msgstr "La eliminación ha sido exitosa"
+
+msgid "The manufacturer was not found"
+msgstr "No se encontró el fabricante"
+
+msgid "The brand was not found"
+msgstr "No se encontró la marca"
+
+msgid "The product subcategory was not found"
+msgstr "No se encontró la subcategoría de producto"
+
+msgid "The product category was not found"
+msgstr "No se encontró la categoría de producto"
+
+msgid "ID should not be repeated"
+msgstr "La identificación no debe repetirse"
+
+msgid "The document category type was not found"
+msgstr "No se encontró la categoría del documento"
+
+msgid "The country was not found"
+msgstr "No se encontró el país"
+
+msgid "The document was not found"
+msgstr "No se encontró el documento"
+
+msgid "The company was not found"
+msgstr "No se encontró la compañía"
+
+msgid "The type permission was not found"
+msgstr "No se encontró el tipo de permiso"
+
+msgid "The permission file was not found"
+msgstr "No se encontró el archivo de permiso"
+
+msgid "The provider country was not found"
+msgstr "No se encontró el país de proveedor"
+
+msgid "The product company was not found"
+msgstr "No se encontró la compañía de producto"
+
+msgid "The minimum amount %(x)s exceeds the maximum amount %(y)s"
+msgstr "La cantidad mínima %(x)s supera a la cantidad máxima %(y)s"
+
+msgid "The discounts are superimposed"
+msgstr "Los descuentos se encuentran superpuestos"
+
+msgid "Import"
+msgstr "Importación"
+
+msgid "Export"
+msgstr "Exportación"
+
+msgid "Commercialization"
+msgstr "Comercialización"
+
+msgid "Transport"
+msgstr "Transporte"
+
+msgid "Storage"
+msgstr "Almacenaje"
+
+msgid "The product cannot be non-storable by itself"
+msgstr "El producto no puede ser no almacenable por sí mismo"
+
+msgid "The company ID is repeated in the same form"
+msgstr "El ID de la compañía se repite en el mismo formulario"
+
+msgid "The permission ID is repeated in the same form"
+msgstr "El ID del permiso se repite en el mismo formulario"
+
+msgid "The product ID is repeated in the same form"
+msgstr "El ID del producto se repite en el mismo formulario"
+
+msgid "Internal error. Please contact the administrator."
+msgstr "Error interno. Por favor contacte con el administrador."
+
+msgid "Access token generated successfully"
+msgstr "Token de acceso generado con éxito"
+
+msgid "The contact does not belong to the provider"
+msgstr "El contacto no pertenece al proveedor"
+
+msgid "United State Dollar"
+msgstr "Dólar estadounidense"
+
+msgid "Euro"
+msgstr "Euro"
+
+msgid "Venezuelan bolívar"
+msgstr "Bolívar venezolano"
+
+msgid "ACH"
+msgstr "ACH"
+
+msgid "Credit card"
+msgstr "Tarjeta de crédito"
+
+msgid "The due date field is required"
+msgstr "El campo fecha de vencimiento es requerido"
+
+msgid "The due date field must be after the issue date field"
+msgstr "La fecha de vencimiento debe ser posterior a la fecha de emisión"
+
+msgid "Login not available"
+msgstr "Inicio de sesión no disponible"
+
+msgid "Pending review"
+msgstr "Pendiente de revisión"
+
+msgid "Rejected"
+msgstr "Rechazado"
+
+msgid "Approved"
+msgstr "Aprobado"
+
+msgid "Order"
+msgstr "Pedido"
+
+msgid "General Inventory"
+msgstr "Inventario General"
+
+msgid "Client Inventory"
+msgstr "Inventario Cliente"
+
+msgid "Internal consumption"
+msgstr "Consumo interno"
+
+msgid "General Inventory Stowage"
+msgstr "Bodega inventario general"
+
+msgid "Client Inventory Stowage"
+msgstr "Bodega inventario cliente"
+
+msgid "Stowage of orders"
+msgstr "Bodega de pedidos"
+
+msgid "Partial"
+msgstr "Parcial"
+
+msgid "Complete"
+msgstr "Completa"
+
+msgid "The manufacturer code already exists"
+msgstr "El código de fabricante ya existe"
+
+msgid "No relationship was found between permission and its type"
+msgstr "No se encontró relación entre permiso y su tipo"
+
+msgid "The product file was not found"
+msgstr "No se encontró el archivo de producto"
+
+msgid "Consolidator"
+msgstr "Consolidador"
+
+msgid "Logistic"
+msgstr "Logístico"
+
+msgid "Customs"
+msgstr "Aduanal"
+
+msgid "Courier"
+msgstr "Courier"
+
+msgid "Intermediary"
+msgstr "Intermediario"
+
+msgid "Countries are required"
+msgstr "Los países son requeridos"
+
+msgid "The currency was not found"
+msgstr "No se encontró la moneda"
+
+msgid "The provider was not found"
+msgstr "No se encontró el proveedor"
+
+msgid "The provider is not related to the country"
+msgstr "El proveedor no tiene relación con el país"
+
+msgid "The payment number already exists"
+msgstr "El número de pago ya existe"
+
+msgid "The product was not found"
+msgstr "No se encontró el producto"
+
+msgid "The tax identification number is required"
+msgstr "El número de identificación fiscal es requerido"
+
+msgid "The tax identification number already exists"
+msgstr "El número de identificación fiscal ya existe"
+
+msgid "Product code should not be repeated"
+msgstr "El código del producto no debe repetirse"
+
+msgid "This field is required"
+msgstr "Este campo es requerido"
+
+msgid "The end date field must be after the start date field"
+msgstr "La fecha de fin debe ser posterior a la fecha de inicio"
+
+msgid "National"
+msgstr "Nacional"
+
+msgid "International"
+msgstr "Internacional"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Sent"
+msgstr "Enviado"
+
+msgid "Confirmed by provider"
+msgstr "Confirmado por proveedor"
+
+msgid "Demorable"
+msgstr "Demorable"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Urgent"
+msgstr "Urgente"
+
+msgid "Maritime"
+msgstr "Marítimo"
+
+msgid "Air"
+msgstr "Aéreo"
+
+msgid "Ground"
+msgstr "Terrestre"
+
+msgid "The company is not related to the country"
+msgstr "La compañía no tiene relación con el país"
+
+msgid "The product category is not related to the analyst"
+msgstr "La categoría del producto no está relacionada con el analista"
+
+msgid "The relationship has been successfully removed"
+msgstr "La relación ha sido removida satisfactoriamente"
+
+msgid "The list should at least one element"
+msgstr "La lista debe tener al menos un elemento"
+
+msgid "It cannot be edited because the request is related to a purchase order"
+msgstr "No se puede editar debido a que la solicitud está relacionada con una orden de compra"
+
+msgid "The purchase was not found"
+msgstr "No se encontró la orden de compra"
+
+msgid "The purchase priority was not found"
+msgstr "No se encontró la orden de prioridad de compra"
+
+msgid "The type purchase priority was not found"
+msgstr "No se encontró el tipo de compra"
+
+msgid "The purchase dispatch priority was not found"
+msgstr "No se encontró el despacho de compra"
+
+msgid "The purchase can only be edited at the stage Sent"
+msgstr "La OC solo se puede editar en la etapa Enviado"
+
+msgid "The delivery date field must be after than or equal to the current date"
+msgstr "La fecha de entrega debe ser posterior o igual a la fecha actual"
+
+msgid "The purchase status must be sent"
+msgstr "El estado de compra debe ser enviado"
+
+msgid "The purchase state must be confirmed by provider"
+msgstr "El estado de la orden de compra debe ser confirmado por el proveedor"
+
+msgid "Purchase receipt"
+msgstr "Recepción de compra"
+
+msgid "The agent must be consolidator"
+msgstr "El agente debe ser consolidador"
+
+msgid "The purchase product was not found"
+msgstr "No se encontró la compra de producto"
+
+msgid "The id field is required"
+msgstr "El campo id es requerido"
+
+msgid "The requisition product is not related to the purchase"
+msgstr "La requisición del producto no esta relacionada con la compra"
+
+msgid "There must be at least one related purchase product"
+msgstr "Debería haber más de una compra de producto relacionada"
+
+msgid "The purchase product to delete was not found"
+msgstr "La compra de producto a eliminar no ha sido encontrada"
+
+msgid "Amount must not be greater than the available quantity"
+msgstr "La cantidad no debe ser mas grande que la cantidad disponible"
+
+msgid "Number must be correlative"
+msgstr "Los números deben ser correlativos"
+
+msgid "Direct delivery"
+msgstr "Envío directo"
+
+msgid "The amount must not exceed what is required"
+msgstr "La cantidad no debe exceder lo requerido"
+
+msgid "Consumable"
+msgstr "Consumible"
+
+msgid "Equipment"
+msgstr "Equipo"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "Continuous"
+msgstr "Continuo"
+
+msgid "MTR"
+msgstr "MTR"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CTRIA"
+msgstr "CTRIA"
+
+msgid "Colon"
+msgstr "Colón"
+
+msgid "Swiss franc"
+msgstr "Franco suizo"
+
+msgid "The quotation date must be before or equal to the current date"
+msgstr "La fecha de cotización debe ser anterior o igual a la fecha actual"
+
+msgid "Provider does not have the dispatch active"
+msgstr "El proveedor no tiene despacho activo"
+
+msgid "You must send only one main address"
+msgstr "Debe enviar una sola dirección como principal"
+
+msgid "At least one of agent or warehouse must be sent"
+msgstr "Al menos un agente o warehouse debe ser enviado"
+
+msgid "Provider address was not found"
+msgstr "La dirección de proveedor no ha sido encontrada"
+
+msgid "The agent was not found"
+msgstr "No ha sido encontrado el agente"
+
+msgid "The warehouse was not found"
+msgstr "No ha sido encontrado el almacén"
+
+msgid "You must send at least one provider contact"
+msgstr "Debe enviar al menos un contacto de proveedor"
+
+msgid "You must send only one main contact"
+msgstr "Debe enviar solo un contacto principal"
+
+msgid "There should only be one main contact"
+msgstr "Solo debe haber un contacto principal"
+
+msgid "Id must be sent"
+msgstr "ID debe ser enviado"
+
+msgid "The provider must be international"
+msgstr "El proveedor debe ser de tipo internacional"
+
+msgid "Verification completed successfully"
+msgstr "Verificación completada con éxito"
+
+msgid "The provider is national in type and no country is required"
+msgstr "El proveedor es de tipo nacional y no se requiere país"
+
+msgid "The country is not enabled by the provider"
+msgstr "El país no está habilitado por el proveedor"
+
+msgid "The provider quotation product was not found"
+msgstr "No se encontró la cotización de producto y proveedor"
+
+msgid "Detailed merchandise"
+msgstr "Mercancía detallada"
+
+msgid "Not detailed merchandise"
+msgstr "Mercancía no detallada"
+
+msgid "Pre-shipment"
+msgstr "Pre-embarque"
+
+msgid "Shipment"
+msgstr "Embarque"
+
+msgid "Sent by provider"
+msgstr "Enviado por proveedor"
+
+msgid "Retired by advance"
+msgstr "Retirado por advance"
+
+msgid "Nationalization"
+msgstr "Nacionalización"
+
+msgid "The purchase order must not be in transport or shipment"
+msgstr "La orden de compra no debe estar en transporte o embarque"
+
+msgid "Transport agent must be of agent type Transport"
+msgstr "Agente de transporte debe ser un agente de tipo Transporte"
+
+msgid "Destination agent must be of agent type Consolidator"
+msgstr "El agente de destino debe ser del tipo Consolidador"
+
+msgid "Agent should be a consolidator type"
+msgstr "Agente debería ser de tipo Consolidador"
+
+msgid "Tracking Number is already sent"
+msgstr "El tracking number ya se encuentra enviado"
+
+msgid "The provider must be able to dispatch"
+msgstr "El proveedor debe poder despachar"
+
+msgid "The dispatch country must be the same as the provider's country of origin"
+msgstr "El país de despacho debe ser igual al país de procedencia del proveedor"
+
+msgid "The billing country must be the same as the provider's country of origin"
+msgstr "El país de facturación debe ser igual al país de procedencia del proveedor"
+
+msgid "The billing company must belong to the billing country"
+msgstr "La compañía de facturación debe pertenecer al país de facturación"
+
+msgid "The billing country must be a country enabled for the provider"
+msgstr "La país de facturación debe ser un país habilitado para el proveedor"
+
+msgid "The dispatch country must be the same as the provider's country of address"
+msgstr "El país de despacho debe ser igual al país de la dirección del proveedor"
+
+msgid "The provider address was not found"
+msgstr "No se encontró la dirección del proveedor"
+
+msgid "The billing company was not found"
+msgstr "No se encontró la compañía de facturación"
+
+msgid "The billing country was not found"
+msgstr "No se encontró el país de facturación"
+
+msgid "The purchase shipping type was not found"
+msgstr "No se encontró el tipo de envío de compra"
+
+msgid "The dispatch country was not found"
+msgstr "No se encontró el país de despacho"
+
+msgid "The purchase status must be created"
+msgstr "El estado de compra debe ser creado"
+
+msgid "The date required field must be after than or equal to the current date"
+msgstr "La fecha requerida debe ser mayor o igual a la fecha actual"
+
+msgid "The provider must be national"
+msgstr "El proveedor debe ser nacional"
+
+msgid "New requisition with code {}"
+msgstr "Nueva requisición con código {}"
+
+msgid "New requisition product with code {}"
+msgstr "Nuevo producto en requisición con código {}"
+
+msgid "Requisition Product deleted with code {}"
+msgstr "Producto de requisición borrado con código {}"
+
+msgid "Requisition Product modified with code {}"
+msgstr "Producto de requisición modificado con código {}"
+
+msgid "Requisition with code {} was no longer approved"
+msgstr "Requisición con código {} dejó de ser aprobada"
+
+msgid "There is no stock available in the product with code {}"
+msgstr "No hay stock disponible en el producto con código {}"
+
+msgid "Requisition approved with code {}"
+msgstr "Requisición aprobada con código {}"
+
+msgid "The purchase order must not be in transport or shipment"
+msgstr "La orden de compra no debe estar en transporte o embarque"
+
+msgid "There should be two or more purchase warehouse"
+msgstr "Debe haber dos o más almacenes de compra"
+
+msgid "Purchase move has already been received"
+msgstr "El traslado de compra ha sido recibido"
+
+msgid "The date must be current or a day before"
+msgstr "La fecha debe ser actual o de un día anterior"
+
+msgid "TThe package product was not found"
+msgstr "No se encontró el producto del paquete"
+
+msgid "Purchase product id must not be repeated"
+msgstr "El producto de compra no debe repetirse"
+
+msgid "The purchase order must have at least one enabled product"
+msgstr "La orden de compra debe tener al menos un producto habilitado"
+
+msgid "You must enter at least one of the amount or deleted fields"
+msgstr "Debes ingresar al menos uno de los campos monto o eliminado"
+
+msgid "The tracking number was not found"
+msgstr "No se encontró el número de seguimiento"
+
+msgid "The number of packages must be equal to 1"
+msgstr "El número de paquetes debe ser igual a 1"
+
+msgid "The number of packages must be equal to one"
+msgstr "El número de paquetes debe ser igual a uno"
+
+msgid "Packages must have the same purchase order"
+msgstr "Los paquetes deben tener el mismo orden de compra"
+
+msgid "The purchase order of the packages must be international"
+msgstr "El tipo de orden de compra de los paquetes deben ser internacional"
+
+msgid "The purchase order of the packages must be confirmed by provider"
+msgstr "La orden de compra de los paquetes debe estar confirmada por el proveedor"
+
+msgid "Packages must be fully numbered"
+msgstr "Los paquetes deben estar completamente enumerados"
+
+msgid "The quantity of products available must be more than required"
+msgstr "La cantidad de productos disponibles debe ser mayor al de los requeridos"
+
+msgid "The tracking number has already been registered"
+msgstr "El tracking number ya ha sido registrado"
+
+msgid "The purchase order must be international"
+msgstr "La orden de compra debe ser de tipo internacional"
+
+msgid "The purchase state must be Confirmed by provider"
+msgstr "El estado de la orden de compra debe estar confirmada por el proveedor"
+
+msgid "The warehouse manager was not found"
+msgstr "No fue encontrado el jefe de almacén"
+
+msgid "The company is not in the same country"
+msgstr "La compañía no se ubica en el mismo país"
+
+msgid "The companies field must be have at least one id"
+msgstr "Debe haber al menos un id en el campo de compañías"
+
+msgid "The staffs field must be have at least one id"
+msgstr "Debe haber al menos un id en el campo staffs"
+
+msgid "A product can only be associated with a proveedor"
+msgstr "Un producto solo puede asociarse con un proveedor"
+
+msgid "The product country was not found"
+msgstr "No se encontró el país del producto"
+
+msgid "The product type permission was not found"
+msgstr "No se encontró el tipo de permiso del producto"
+
+msgid "The product permission was not found"
+msgstr "No se encontró el permiso del producto"
+
+msgid "Tax cannot be greater than 0 if its exempted of IVA"
+msgstr "El impuesto no puede ser mayor que 0 si está exento de IVA"
+
+msgid "The maximum temperature must be greater than or equal to the minimum temperature"
+msgstr "La temperatura máxima debe ser mayor o igual que la temperatura mínima"
+
+msgid "You must send at least one field"
+msgstr "Se debe enviar al menos un campo"
+
+msgid "You must send at least two ids"
+msgstr "Debe enviar al menos dos ids"
+
+msgid "The purchase warehouse agent must be a consolidator type"
+msgstr "El agente de purchase warehouse debe ser de tipo consolidador"
+
+msgid "The purchase order must not be in transport or shipment"
+msgstr "La orden de compra no debe estar en transporte o embarque"
+
+msgid "The date must be current or a day before"
+msgstr "La fecha debe ser actual o de un día antes"
+
+msgid "Purchases warehouses has different agents"
+msgstr "Los purchase warehouses tienen diferentes agentes"
+
+msgid "The purchase not enabled for this API"
+msgstr "La orden de compra no está habilitada para esta API"
+
+msgid "Purchase product id must not be repeated"
+msgstr "No debe repetirse el id para el producto de una orden de compra"
+
+msgid "The product was not found or is not related to the purchase order"
+msgstr "El producto no fue encontrado o no está relacionado a la orden de compra"
+
+msgid "The purchase order must have at least one enabled product"
+msgstr "La orden de compra debe tener al menos un producto habilitado"
+
+msgid "You must enter at least one of the amount, unit cost or deleted fields"
+msgstr "Debe ingresar al menos uno de los campos monto, costo unitario o campo eliminado"
+
+msgid "The product must have at least a file enabled"
+msgstr "El producto debe tener al menos un archivo habilitado"
+
+msgid "The provider contact was not found"
+msgstr "No se encontró el contacto de proveedor"
+
+msgid "Cannot edit provider contact when creating a provider"
+msgstr "No se puede editar un contacto cuando se está creando un proveedor"
+
+msgid "This field should not be sent"
+msgstr "Este campo no debe enviarse"
+
+msgid "Type_permissions field is required"
+msgstr "El campo tipo de permisos es requerido"
+
+msgid "The product subcategory must have values in all companies"
+msgstr "La subcategoría de producto debe tener valores en todas las compañías"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Warehouse manager"
+msgstr "Jefe de almacén"
+
+msgid "Storer"
+msgstr "Almacenista"
+
+msgid "Seller"
+msgstr "Vendedor"
+
+msgid "Purchaser"
+msgstr "Comprador"
+
+msgid "Category leader"
+msgstr "Líder de categorías"
+
+msgid "Sales leader"
+msgstr "Líder de ventas"
+
+msgid "Category analyst"
+msgstr "Analista de categorías"
+
+msgid "Technical manager"
+msgstr "Gerente técnico"
+
+msgid "The code already exists"
+msgstr "El código ya existe"
+
+msgid "The user was not found"
+msgstr "No se ha encontrado el usuario"
+
+msgid "The user must be of type warehouse manager"
+msgstr "El usuario debe ser de tipo Jefe de almacén"
+
+msgid "The user must be of type storer"
+msgstr "El usuario debe ser de tipo almacenista"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Permission"
+msgstr "Permiso"
+
+msgid "Cannot be removed because there are dependencies"
+msgstr "No se puede eliminar debido a que existen dependencias"
+
+msgid "The name already exists in that country"
+msgstr "El nombre ya existe en ese país"
+
+msgid "The code already exists in that country"
+msgstr "El código ya existe en ese país"
+
+msgid "The document was not found"
+msgstr "No se ha encontrado el documento"
+
+msgid "The type document authorization was not found"
+msgstr "No se ha encontrado el tipo de autorización de documento"
+
+msgid "The type document category was not found"
+msgstr "No se ha encontrado la categoría de documento"
+
+msgid "The issue date must be before or equal to the due date"
+msgstr "La fecha de emisión debe ser anterior a la fecha de vencimiento"
+
+msgid "Dates must not be within the range of the active document"
+msgstr "La fechas no deben estar dentro del rango del documento activo"
+
+msgid "The document is already renewed"
+msgstr "El documento ya está renovado"
+
+msgid "The issue date field must be before or equal to the current date"
+msgstr "La fecha de emisión debe ser anterior o igual a la fecha actual del sistema"
+
+msgid "The commercialization option must be enabled"
+msgstr "La opción comercialización debe estar habilitada"
+
+msgid "Tax must be greater than 0"
+msgstr "El impuesto debe ser mayor que 0"
+
+msgid "Tax must be 0"
+msgstr "El impuesto debe ser 0"
+
+msgid "The product type must be Equipment"
+msgstr "El tipo de producto debe ser Equipo"
+
+msgid "The file was not found"
+msgstr "No se ha encontrado el archivo"
+
+msgid "The document should at least have a category enabled"
+msgstr "El documento debe tener al menos a una categoría habilitada"
+
+msgid "Tax must be less than or equal to the tax of the country"
+msgstr "El valor de IVA no puede ser mayor al establecido por país"
+
+msgid "The document does not belong to the country sent"
+msgstr "El documento no pertenece al país enviado"
+
+msgid "The agent type was not found"
+msgstr "El tipo de agente no fue encontrado"
+
+msgid "The agent doesn't have history"
+msgstr "El agente no tiene historial"
+
+msgid "The agent has been disabled"
+msgstr "El agente ha sido deshabilitado"
+
+msgid "The agent has been enabled"
+msgstr "El agente ha sido habilitado"
+
+msgid "To a consolidator"
+msgstr "Hacia un consolidador"
+
+msgid "To an intermediary"
+msgstr "Hacia un intermediario"
+
+msgid "To a logistic"
+msgstr "Hacia un logístico"
+
+msgid "To a courier"
+msgstr "Hacia un courier"
+
+msgid "To a company"
+msgstr "Hacia una compañía"
+
+msgid "To a transport"
+msgstr "Hacia un transporte"
+
+msgid "To a warehouse"
+msgstr "Hacia un almacén"
+
+msgid "To a warehouse of client"
+msgstr "Hacia una bodega cliente"
+
+msgid "The provider doesn't have history"
+msgstr "El proveedor no tiene historial"
+
+msgid "The provider has been disabled"
+msgstr "El proveedor ha sido deshabilitado"
+
+msgid "The provider has been enabled"
+msgstr "El proveedor ha sido habilitado"
+
+msgid "The type provider was not found"
+msgstr "El tipo de proveedor no fue encontrado"
+
+msgid "The sale discount id is incompatible"
+msgstr "El id del descuento venta es incompatible"
+
+msgid "The minimum amount exceeds the maximum amount"
+msgstr "La cantidad mínima excede a la cantidad máxima"
+
+msgid "Discounts are not according to quantities"
+msgstr "Los descuentos no concuerdan con las cantidades"
+
+msgid "The country must be of advance"
+msgstr "El país debe ser de advance"
+
+msgid "The bussiness name must not be repeated in this country"
+msgstr "La razon social no debe repetirse en este país"
+
+msgid "The comercial name must not be repeated in this country"
+msgstr "El nombre comercial no debe repetirse en este país"
+
+msgid "You must send a main contact"
+msgstr "Debe enviar un contacto principal"
+
+msgid "The company is not related to the product"
+msgstr "La compañía no está relacionada con el producto"
+
+msgid "You must send at least one company that can bill"
+msgstr "Debe enviar al menos una compañía que pueda facturar"
+
+msgid "Company is not related with country of the provider"
+msgstr "La compañía no esta relacionada con el país del proveedor"
+
+msgid "Juridical"
+msgstr "Jurídico"
+
+msgid "Other"
+msgstr "Otro"
+
+msgid "Main dispatch address is missing in a country"
+msgstr "Direcciones principales inválidas de despacho por país"
+
+msgid "Main retire address is missing in a country"
+msgstr "Direcciones principales inválidas de retiro por país"
+
+msgid "Provider requires main addresses by country"
+msgstr "Proveedor requiere direcciones principales por país"
+
+msgid "The provider dispatch address was not found"
+msgstr "La dirección de despacho no fue encontrada"
+
+msgid "The type dispatch was not found"
+msgstr "El tipo de despacho no fue encontrado"
+
+msgid "The agent address was not found"
+msgstr "La dirección del agente no fue encontrada"
+
+msgid "The agent address is disabled"
+msgstr "La dirección del agente enviada está desactivada"
+
+msgid "The address was not found"
+msgstr "La dirección no fue encontrada"
+
+msgid "The country is not related to the country of the address"
+msgstr "El país no está relacionado con el país de la dirección"
+
+msgid "There is more than one main address per country"
+msgstr "No puede haber más de una dirección principal por país"
+
+msgid "The provider must have a main dispatch address"
+msgstr "El proveedor debería tener al menos una dirección principal de despacho"
+
+msgid "The provider must have a main retire address"
+msgstr "El proveedor debería tener al menos una dirección principal de retiro"
+
+msgid "The provider cannot make dispatchs"
+msgstr "El proveedor no puede despachar"
+
+msgid "The quotation has not been found"
+msgstr "No se encontró la cotización"
+
+msgid "The provider is not enabled"
+msgstr "El proveedor está desactivado"
+
+msgid "Advance Warranty"
+msgstr "Garantía Advance"
+
+msgid "Partially converted to OC"
+msgstr "Convertido parcialmente en OC"
+
+msgid "Converted to OC"
+msgstr "Convertido en OC"
+
+msgid "Stowage General Inventory"
+msgstr "Bodega Inventario General"
+
+msgid "Stowage Client Inventory"
+msgstr "Bodega Inventario Cliente"
+
+msgid "Stowage Internal consumption"
+msgstr "Bodega Consumo Interno"
+
+msgid "Stowage Advance Warranty"
+msgstr "Bodega Garantía Advance"
+
+msgid "Canceled"
+msgstr "Anulado"
+
+msgid "The product isn't related to the provider"
+msgstr "El producto no está relacionado con el proveedor"
+
+msgid "Products should not be repeated"
+msgstr "Los productos no deben repetirse"
+
+msgid "Warehouse was not found"
+msgstr "El almacén no se ha encontrado"
+
+msgid "Warehouse must not be activated"
+msgstr "El almacén no debe estar activado"
+
+msgid "The warehouse must not have products"
+msgstr "El almacén no debe tener productos"
+
+msgid "Warehouse must not be disabled"
+msgstr "El almacén no debe estar desactivado"
+
+msgid "This code already exists"
+msgstr "El código ingresado ya existe"
+
+msgid "The warehouse has not been found"
+msgstr "No se ha encontrado el almacén"
+
+msgid "The company does not belong to the country"
+msgstr "La compañía no pertenece al país"
+
+msgid "The company not exist"
+msgstr "La compañía no existe"
+
+msgid "Company should not be repeated"
+msgstr "La compañía no debe repetirse"
+
+msgid "Cannot remove a company because it has products"
+msgstr "No se puede eliminar una compañía porque tiene productos"
+
+msgid "The field has not been found"
+msgstr "El campo no ha sido encontrado"
+
+msgid "A warehouse with the same name already exists"
+msgstr "Ya existe un almacén con el mismo nombre"
+
+msgid "A warehouse with the same code already exists"
+msgstr "Ya existe un almacén con el mismo código"
+
+msgid "The model related to the field does not exist"
+msgstr "El modelo relacionado al campo no existe"
+
+msgid "The business name already exists"
+msgstr "La razón social ya existe"
+
+msgid "The commercial name already exists"
+msgstr "El nombre comercial ya existe"
+
+msgid "The timezone of issue date is invalid"
+msgstr "El timezone de la fecha de emisión es inválido"

@@ -1,0 +1,22 @@
+[flake8]
+exclude =
+    .git,
+    ./env,
+    ./tests,
+    ./docs,
+    ./swagger,
+    ./trash,
+    ./models/__init__.py,
+    ./factories/__init__.py,
+    ./validators/__init__.py,
+    ./managers/__init__.py
+select =
+    C901,E101,E111,E112,E113,E116,E123,E125,E201,
+    E222,E223,E224,E225,E226,E227,E228,E231,E241,
+    E242,E251,E265,E266,E271,E272,E273,E274,E275,
+    E301,E304,E702,E703,E704,E711,E712,E714,E741,
+    E742,E743,F401,F402,F403,F405,F811,F812,F831,
+    F841,W603,W604
+statistics = True
+count = True
+format=pylint

@@ -1,0 +1,128 @@
+[
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Componente Averiado",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Componente Averiado' "
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Errores en programas",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Errores en Programas' "
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Errores en Windows",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Errores en Windows'"
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Lentitud",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Lentitud' "
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Diagnóstico",
+    "amount": 50,
+    "description": "Descripción del Subservicio Diagnóstico"
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Mantenimiento",
+    "type_sub_service_name": "Diagnóstico de Mantenimiento",
+    "amount": null,
+    "description": "Soliciticar Diagnóstico"
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Mantenimiento",
+    "type_sub_service_name":"Paquete Básico",
+    "amount": 90,
+    "description": "Información del Paquete Básico de Mantenimiento"
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Mantenimiento",
+    "type_sub_service_name":"Paquete Completo",
+    "amount": 150,
+    "description": "Información del Paquete Completo de Mantenimiento"
+  },
+  {
+    "type_computer_id": 1,
+    "type_service_name":"Repotenciamiento",
+    "type_sub_service_name": null,
+    "amount": null,
+    "description": "Descripción General del Servicio Repotenciamiento para PC"
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Componente Averiado",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Componente Averiado' "
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Errores en programas",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Errores en Programas' "
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Errores en Windows",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Errores en Windows'"
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Lentitud",
+    "amount": 50,
+    "description": "Descripción del Subservicio 'Lentitud' "
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Reparación",
+    "type_sub_service_name":"Diagnóstico",
+    "amount": 50,
+    "description": "Descripción del Subservicio Diagnóstico"
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Mantenimiento",
+    "type_sub_service_name": "Diagnóstico de Mantenimiento",
+    "amount": null,
+    "description": "Soliciticar Diagnóstico"
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Mantenimiento",
+    "type_sub_service_name":"Paquete Básico",
+    "amount": 90,
+    "description": "Información del Paquete Básico de Mantenimiento"
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Mantenimiento",
+    "type_sub_service_name":"Paquete Completo",
+    "amount": 150,
+    "description": "Información del Paquete Completo de Mantenimiento"
+  },
+  {
+    "type_computer_id": 2,
+    "type_service_name":"Repotenciamiento",
+    "type_sub_service_name": null,
+    "amount": null,
+    "description": "Descripción General del Servicio Repotenciamiento para Laptop"
+  }
+]
