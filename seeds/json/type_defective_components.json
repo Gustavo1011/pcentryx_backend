@@ -1,142 +1,82 @@
 [
   {
     "type_computer_id": 1,
-    "name":"Fuente",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Fuente"
   },
   {
     "type_computer_id": 1,
-    "name":"Monitor",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Monitor"
   },
   {
     "type_computer_id": 1,
-    "name":"Mouse",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Mouse"
   },
   {
     "type_computer_id": 1,
-    "name":"Placa Madre",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Placa Madre"
   },
   {
     "type_computer_id": 1,
-    "name":"Procesador",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Procesador"
   },
   {
     "type_computer_id": 1,
-    "name":"RAM",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"RAM"
   },
   {
     "type_computer_id": 1,
-    "name":"Tarjeta Gráfica",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Tarjeta Gráfica"
   },
   {
     "type_computer_id": 1,
-    "name":"Teclado",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Teclado"
   },
   {
     "type_computer_id": 2,
-    "name":"Batería",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Batería"
   },
   {
     "type_computer_id": 2,
-    "name":"Bisagras",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Bisagras"
   },
   {
     "type_computer_id": 2,
-    "name":"Cámara",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Cámara"
   },
   {
     "type_computer_id": 2,
-    "name":"Carcasa",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Carcasa"
   },
   {
     "type_computer_id": 2,
-    "name":"Conectores",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Conectores"
   },
   {
     "type_computer_id": 2,
-    "name":"Micrófono",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Micrófono"
   },
   {
     "type_computer_id": 2,
-    "name":"Mousepad",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Touchpad"
   },
   {
     "type_computer_id": 2,
-    "name":"Pantalla",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Pantalla"
   },
   {
     "type_computer_id": 2,
-    "name":"Parlantes",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Parlantes"
   },
   {
     "type_computer_id": 2,
-    "name":"Puerto de carga",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Puerto de carga"
   },
   {
     "type_computer_id": 2,
-    "name":"Teclado",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Teclado"
   },
   {
     "type_computer_id": 2,
-    "name":"Wifi",
-    "image_url": null,
-    "min_amount": 150,
-    "max_amount": 200
+    "name":"Wifi"
   }
 ]

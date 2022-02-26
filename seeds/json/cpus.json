@@ -1912,6 +1912,10 @@
     "brand_component_id": 1
   },
   {
+    "name": "Otro",
+    "brand_component_id": 1
+  },
+  {
     "name": "Core2 Duo E6320 @ 1.86GHz",
     "brand_component_id": 2
   },
@@ -2112,10 +2116,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i9-10900T @ 1.90GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-10600 @ 3.30GHz",
     "brand_component_id": 2
   },
@@ -2132,19 +2132,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i9-9900T @ 2.10GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-10500 @ 3.10GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i7-6900K @ 3.20GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-10700T @ 2.00GHz",
     "brand_component_id": 2
   },
   {
@@ -2168,10 +2160,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-10600T @ 2.40GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i7-6850K @ 3.60GHz",
     "brand_component_id": 2
   },
@@ -2184,27 +2172,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i7-9700T @ 2.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-10500T @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-8700T @ 2.40GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-9600 @ 3.10GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i7-6800K @ 3.40GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-10400T @ 2.00GHz",
     "brand_component_id": 2
   },
   {
@@ -2260,10 +2232,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-9600T @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-8400 @ 2.80GHz",
     "brand_component_id": 2
   },
@@ -2273,10 +2241,6 @@
   },
   {
     "name": "Core i3-10100 @ 3.60GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-8600T @ 2.30GHz",
     "brand_component_id": 2
   },
   {
@@ -2292,15 +2256,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-10300T @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i7-3930K @ 3.20GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-9500T @ 2.20GHz",
     "brand_component_id": 2
   },
   {
@@ -2316,14 +2272,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-8500T @ 2.10GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-9400T @ 1.80GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i7-5775R @ 3.30GHz",
     "brand_component_id": 2
   },
@@ -2332,15 +2280,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i7-7700T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i3-9350K @ 4.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-8400T @ 1.70GHz",
     "brand_component_id": 2
   },
   {
@@ -2353,10 +2293,6 @@
   },
   {
     "name": "Core i3-9300 @ 3.70GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-6700T @ 2.80GHz",
     "brand_component_id": 2
   },
   {
@@ -2420,19 +2356,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i7-6700TE @ 2.40GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-7600 @ 3.50GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i7-4820K @ 3.70GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-4790T @ 2.70GHz",
     "brand_component_id": 2
   },
   {
@@ -2445,10 +2373,6 @@
   },
   {
     "name": "Core i7-3770 @ 3.40GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-9300T @ 3.20GHz",
     "brand_component_id": 2
   },
   {
@@ -2480,10 +2404,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i7-4770T @ 2.50GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-5675C @ 3.10GHz",
     "brand_component_id": 2
   },
@@ -2496,23 +2416,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-7600T @ 2.80GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-8300T @ 3.20GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-6402P @ 2.80GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i5-6500 @ 3.20GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-9100T @ 3.10GHz",
     "brand_component_id": 2
   },
   {
@@ -2528,19 +2436,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i7-3770T @ 2.50GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-4670K @ 3.40GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i5-7400 @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-6600T @ 2.70GHz",
     "brand_component_id": 2
   },
   {
@@ -2556,14 +2456,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-7500T @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-4785T @ 2.20GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-4670R @ 3.00GHz",
     "brand_component_id": 2
   },
@@ -2573,14 +2465,6 @@
   },
   {
     "name": "Core i5-4590 @ 3.30GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-6500TE @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-8100T @ 3.10GHz",
     "brand_component_id": 2
   },
   {
@@ -2612,10 +2496,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-6500T @ 2.50GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i7-4700EQ @ 2.40GHz",
     "brand_component_id": 2
   },
@@ -2625,10 +2505,6 @@
   },
   {
     "name": "Core i5-3570 @ 3.40GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-4765T @ 2.00GHz",
     "brand_component_id": 2
   },
   {
@@ -2680,10 +2556,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-7400T @ 2.40GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i3-6300 @ 3.80GHz",
     "brand_component_id": 2
   },
@@ -2696,15 +2568,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-4670T @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-3450 @ 3.10GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-6400T @ 2.20GHz",
     "brand_component_id": 2
   },
   {
@@ -2736,18 +2600,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-4690T @ 2.50GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-4770TE @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-7300T @ 3.50GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Pentium Gold G5600F @ 3.90GHz",
     "brand_component_id": 2
   },
@@ -2761,10 +2613,6 @@
   },
   {
     "name": "Core i3-6098P @ 3.60GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-3570T @ 2.30GHz",
     "brand_component_id": 2
   },
   {
@@ -2792,18 +2640,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-6300T @ 3.30GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-7101TE @ 3.40GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-4590T @ 2.00GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-4440S @ 2.80GHz",
     "brand_component_id": 2
   },
@@ -2828,19 +2664,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-7100T @ 3.40GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-2400 @ 3.10GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i5-3335S @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium Gold G5420T @ 3.20GHz",
     "brand_component_id": 2
   },
   {
@@ -2853,10 +2681,6 @@
   },
   {
     "name": "Pentium Silver J5040 @ 2.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-6100T @ 3.20GHz",
     "brand_component_id": 2
   },
   {
@@ -2877,10 +2701,6 @@
   },
   {
     "name": "Core i5-2320 @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-4460T @ 1.90GHz",
     "brand_component_id": 2
   },
   {
@@ -2912,10 +2732,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-6100TE @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-2300 @ 2.80GHz",
     "brand_component_id": 2
   },
@@ -2944,19 +2760,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-4570T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-4400E @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-4570T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium Gold G5500T @ 3.20GHz",
     "brand_component_id": 2
   },
   {
@@ -2972,22 +2776,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-4370T @ 3.30GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-4170T @ 3.20GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G4600T @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-4360T @ 3.20GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i3-4350 @ 3.60GHz",
     "brand_component_id": 2
   },
@@ -2996,15 +2784,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-4330T @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-4200H @ 2.80GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-4160T @ 3.10GHz",
     "brand_component_id": 2
   },
   {
@@ -3016,10 +2796,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-4570TE @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i7-875K @ 2.93GHz",
     "brand_component_id": 2
   },
@@ -3028,19 +2804,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G4560T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Celeron J4105 @ 1.50GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i5-2405S @ 2.50GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-3470T @ 2.90GHz",
     "brand_component_id": 2
   },
   {
@@ -3064,10 +2832,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-4130T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Celeron J4115 @ 1.80GHz",
     "brand_component_id": 2
   },
@@ -3084,10 +2848,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-2500T @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i7-920 @ 2.67GHz",
     "brand_component_id": 2
   },
@@ -3096,15 +2856,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-4150T @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i7-860S @ 2.53GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-3250T @ 3.00GHz",
     "brand_component_id": 2
   },
   {
@@ -3128,15 +2880,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G4500T @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core2 Extreme X9650 @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-4330TE @ 2.40GHz",
     "brand_component_id": 2
   },
   {
@@ -3164,10 +2908,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G4400T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Celeron G4900 @ 3.10GHz",
     "brand_component_id": 2
   },
@@ -3189,10 +2929,6 @@
   },
   {
     "name": "Pentium J4205 @ 1.50GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-2390T @ 2.70GHz",
     "brand_component_id": 2
   },
   {
@@ -3228,27 +2964,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Celeron G4900T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G4930T @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G3930TE @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Celeron G3900 @ 2.80GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core i5-650 @ 3.20GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G3900T @ 2.60GHz",
     "brand_component_id": 2
   },
   {
@@ -3280,14 +3000,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Celeron G3930T @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G3440T @ 2.80GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core2 Quad Q9505 @ 2.83GHz",
     "brand_component_id": 2
   },
@@ -3301,10 +3013,6 @@
   },
   {
     "name": "Core2 Quad Q9400 @ 2.66GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G3420T @ 2.70GHz",
     "brand_component_id": 2
   },
   {
@@ -3336,23 +3044,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G3450T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core2 Extreme Q9200 @ 2.40GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core2 Quad Q8400 @ 2.66GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G3260T @ 2.90GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-3220T @ 2.80GHz",
     "brand_component_id": 2
   },
   {
@@ -3365,10 +3061,6 @@
   },
   {
     "name": "Core i3-2130 @ 3.40GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-3240T @ 2.90GHz",
     "brand_component_id": 2
   },
   {
@@ -3436,10 +3128,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G3240T @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core2 Quad Q8300 @ 2.50GHz",
     "brand_component_id": 2
   },
@@ -3464,14 +3152,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-2100T @ 2.50GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G2100T @ 2.60GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Celeron J4005 @ 2.00GHz",
     "brand_component_id": 2
   },
@@ -3492,19 +3172,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G3320TE @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5 E 520 @ 2.40GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G1820T @ 2.40GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G2120T @ 2.70GHz",
     "brand_component_id": 2
   },
   {
@@ -3513,18 +3181,6 @@
   },
   {
     "name": "Celeron G1820 @ 2.70GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G3250T @ 2.80GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G2030T @ 2.60GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G1840T @ 2.50GHz",
     "brand_component_id": 2
   },
   {
@@ -3548,10 +3204,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Celeron G1620T @ 2.40GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i3-540 @ 3.07GHz",
     "brand_component_id": 2
   },
@@ -3565,14 +3217,6 @@
   },
   {
     "name": "Pentium G2010 @ 2.80GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G3220T @ 2.60GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G2020T @ 2.50GHz",
     "brand_component_id": 2
   },
   {
@@ -3592,19 +3236,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-2120T @ 2.60GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Pentium J3710 @ 1.60GHz",
     "brand_component_id": 2
   },
   {
     "name": "Pentium G6951 @ 2.80GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G1610T @ 2.30GHz",
     "brand_component_id": 2
   },
   {
@@ -3656,10 +3292,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G645T @ 2.50GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Pentium G620 @ 2.60GHz",
     "brand_component_id": 2
   },
@@ -3680,19 +3312,11 @@
     "brand_component_id": 2
   },
   {
-    "name": "Celeron G540T @ 2.10GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Pentium E5800 @ 3.20GHz",
     "brand_component_id": 2
   },
   {
     "name": "Core2 Duo E8400 @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G640T @ 2.40GHz",
     "brand_component_id": 2
   },
   {
@@ -3724,15 +3348,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Celeron G1820TE @ 2.20GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Celeron J1900 @ 1.99GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G550T @ 2.20GHz",
     "brand_component_id": 2
   },
   {
@@ -3749,10 +3365,6 @@
   },
   {
     "name": "Pentium E5700 @ 3.00GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G530T @ 2.00GHz",
     "brand_component_id": 2
   },
   {
@@ -3800,10 +3412,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium G630T @ 2.30GHz",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core2 Duo E7400 @ 2.80GHz",
     "brand_component_id": 2
   },
@@ -3821,10 +3429,6 @@
   },
   {
     "name": "Pentium E6300 @ 2.80GHz",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium G620T @ 2.20GHz",
     "brand_component_id": 2
   },
   {
@@ -4320,15 +3924,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-10105T",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i3-10305",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-10305T",
     "brand_component_id": 2
   },
   {
@@ -4344,15 +3940,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-11400T",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-11500",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-11500T",
     "brand_component_id": 2
   },
   {
@@ -4365,10 +3953,6 @@
   },
   {
     "name": "Core i5-11600KF",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-11600T",
     "brand_component_id": 2
   },
   {
@@ -4416,10 +4000,6 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i9-11900T",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i9-12900K",
     "brand_component_id": 2
   },
@@ -4432,15 +4012,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Pentium Gold G6405T",
-    "brand_component_id": 2
-  },
-  {
     "name": "Pentium Gold G6505",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium Gold G6505T",
     "brand_component_id": 2
   },
   {
@@ -4460,19 +4032,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i3-12100T",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-12100TE",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i3-12300",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i3-12300T",
     "brand_component_id": 2
   },
   {
@@ -4481,10 +4041,6 @@
   },
   {
     "name": "Core i5-12400F",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-12400T",
     "brand_component_id": 2
   },
   {
@@ -4500,19 +4056,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i5-12500T",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-12500TE",
-    "brand_component_id": 2
-  },
-  {
     "name": "Core i5-12600",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i5-12600T",
     "brand_component_id": 2
   },
   {
@@ -4525,14 +4069,6 @@
   },
   {
     "name": "Core i7-12700F",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-12700T",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i7-12700TE",
     "brand_component_id": 2
   },
   {
@@ -4552,23 +4088,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Core i9-12900T",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Core i9-12900TE",
-    "brand_component_id": 2
-  },
-  {
     "name": "Pentium Gold G7400",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium Gold G7400T",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Pentium Gold G7400TE",
     "brand_component_id": 2
   },
   {
@@ -4584,11 +4104,7 @@
     "brand_component_id": 2
   },
   {
-    "name": "Celeron G6900T",
-    "brand_component_id": 2
-  },
-  {
-    "name": "Celeron G6900TE",
+    "name": "Otro",
     "brand_component_id": 2
   }
 ]

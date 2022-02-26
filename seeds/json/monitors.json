@@ -1,0 +1,115 @@
+[
+    {
+      "model_name": "MONITOR XTREME VISION IP240FG",
+      "image_url": null,
+      "price": 1011,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "144 HZ",
+        "panel": "IPS",
+        "resolution": "1080p",
+        "response_time": "1 ms",
+        "screen_size": "24\"",
+        "hdr": null
+      }
+    },
+    {
+      "model_name": "MONITOR GAMING ANTRYX XTREME VISION VA270FGXU, 27\", 1080P, 165HZ, 1MS",
+      "image_url": null,
+      "price": 1162,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "165 HZ",
+        "panel": "VA",
+        "resolution": "1080p",
+        "response_time": "1 ms",
+        "screen_size": "27\"",
+        "hdr": null
+      }
+    },
+    {
+      "model_name": "MONITOR GAMING ANTRYX XTREME VISION IPX271FG, 27\", 1080P, 144HZ, 1MS",
+      "image_url": null,
+      "price": 1311,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "144 HZ",
+        "panel": "IPS",
+        "resolution": "1080p",
+        "response_time": "1 ms",
+        "screen_size": "27\"",
+        "hdr": null
+      }
+    },
+    {
+      "model_name": "MONITOR 20 LG 20MK400H-B HD 1366x768 HDMi/VGA",
+      "image_url": null,
+      "price": 627,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "60 HZ",
+        "panel": "TN",
+        "resolution": "768p",
+        "response_time": "1 ms",
+        "screen_size": "20\"",
+        "hdr": null
+      }
+    },
+    {
+      "model_name": "MONITOR 24 SAMSUNG 24F390 Curvo Gaming AMD FreeSy",
+      "image_url": null,
+      "price": 744,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "75 HZ",
+        "panel": "VA",
+        "resolution": "1080p",
+        "response_time": "5 ms",
+        "screen_size": "24\"",
+        "hdr": null
+      }
+    },
+    {
+      "model_name": "MONITOR 24 MSI OPTIX G24C FHD 144Hz 1ms Curvo",
+      "image_url": null,
+      "price": 999,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "144 HZ",
+        "panel": "LCD",
+        "resolution": "1080p",
+        "response_time": "1 ms",
+        "screen_size": "24\"",
+        "hdr": null
+      }
+    },
+    {
+      "model_name": "MONITOR 27 SAMSUNG LS27AM500NLXPE FHD SMART",
+      "image_url": null,
+      "price": 776,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "60 HZ",
+        "panel": "VA",
+        "resolution": "1080p",
+        "response_time": "1 ms",
+        "screen_size": "27\"",
+        "hdr": "10"
+      }
+    },
+    {
+      "model_name": "MONITOR 27 SAMSUNG LF27G35 FHD 144Hz Odyssey",
+      "image_url": null,
+      "price": 1121,
+      "category_peripheral_id": 5,
+      "attributes": {
+        "frequency": "144 HZ",
+        "panel": "VA",
+        "resolution": "1080p",
+        "response_time": "5 ms",
+        "screen_size": "27\"",
+        "hdr": null
+      }
+    }
+  ]
+    

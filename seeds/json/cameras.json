@@ -1,0 +1,33 @@
+[
+    {
+      "model_name": "CAMARA WEBCAM GENIUS FACECAM 1000X V2 HD 720p",
+      "image_url": null,
+      "price": 129,
+      "category_peripheral_id": 3,
+      "attributes": {
+        "resolution": "720p",
+        "output": "USB"
+      }
+    },
+    {
+      "model_name": "CAMARA WEBCAM IMILAB By XIAOMI FHD 1080p C/Tripode",
+      "image_url": null,
+      "price": 100,
+      "category_peripheral_id": 3,
+      "attributes": {
+        "resolution": "1080p",
+        "output": "USB"
+      }
+    },
+    {
+      "model_name": "CAMARA WEBCAM LOGITECH C925E FHD 1080p",
+      "image_url": null,
+      "price": 328,
+      "category_peripheral_id": 3,
+      "attributes": {
+        "resolution": "1080p",
+        "output": "USB"
+      }
+    }
+  ]
+    

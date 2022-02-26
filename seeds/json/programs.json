@@ -1,0 +1,322 @@
+[
+    {
+      "name": "google chrome",
+      "category_program_id": 1,
+      "description": "navegador web de google"
+    },
+    {
+      "name": "office",
+      "category_program_id": 1,
+      "description": "suite ofimática de aplicaciones para computadoras de escritorio"
+    },
+    {
+      "name": "Zoom",
+      "category_program_id": 1,
+      "description": "Programa de videollamadas y reuniones virtuales"
+    },
+    {
+      "name": "Google Meet",
+      "category_program_id": 1,
+      "description": null
+    },
+    {
+      "name": "Microsoft Teams",
+      "category_program_id": 1,
+      "description": null
+    },
+    {
+      "name": "MPC-HC",
+      "category_program_id": 1,
+      "description": "reproductor de musica y sonido"
+    },
+    {
+      "name": "7-zip",
+      "category_program_id": 1,
+      "description": "Comprime y descomprime archivos"
+    },
+    {
+      "name": "onedrive",
+      "category_program_id": 1,
+      "description": "la nube de microsoft para escritorio"
+    },
+    {
+      "name": "google drive",
+      "category_program_id": 1,
+      "description": "la nube de google para escritorio"
+    },
+    {
+      "name": "sumatra pdf",
+      "category_program_id": 1,
+      "description": "Visualizador de pdf´s"
+    },
+    {
+      "name": "avast antivirus",
+      "category_program_id": 1,
+      "description": "Antivirus de prueba"
+    },
+    {
+      "name": "dropbox",
+      "category_program_id": 1,
+      "description": "nube para escritorio"
+    },
+    {
+      "name": "teamviewer",
+      "category_program_id": 1,
+      "description": "programa para acceso remoto"
+    },
+    {
+      "name": "autocad",
+      "category_program_id": 2,
+      "description": "Dibujo 2D y modelado 3D"
+    },
+    {
+      "name": "cinema 4d",
+      "category_program_id": 2,
+      "description": "creación de gráficos y animación 3D"
+    },
+    {
+      "name": "autodesk maya",
+      "category_program_id": 2,
+      "description": "desarrollo de gráficos 3D"
+    },
+    {
+      "name": "blender",
+      "category_program_id": 2,
+      "description": "modelado, iluminación, renderizado, la animación y creación de gráficos tridimensionales"
+    },
+    {
+      "name": "visual studio code",
+      "category_program_id": 3,
+      "description": "modelado, iluminación, renderizado, la animación y creación de gráficos tridimensionales"
+    },
+    {
+      "name": "eclipse",
+      "category_program_id": 3,
+      "description": "plataforma de desarrollo de software"
+    },
+    {
+      "name": "neat beans",
+      "category_program_id": 3,
+      "description": "plataforma de desarrollo de software"
+    },
+    {
+      "name": "node js",
+      "category_program_id": 3,
+      "description": "entorno en tiempo de ejecución multiplataforma basado en javascript"
+    },
+    {
+      "name": "sublime text",
+      "category_program_id": 3,
+      "description": "Editor de texto"
+    },
+    {
+      "name": "git",
+      "category_program_id": 3,
+      "description": "software de control de versiones"
+    },
+    {
+      "name": "python",
+      "category_program_id": 3,
+      "description": "plataforma para el desarrollo con python"
+    },
+    {
+      "name": "dev c++",
+      "category_program_id": 3,
+      "description": "plataforma para el desarrollo con c++"
+    },
+    {
+      "name": "lucidchart",
+      "category_program_id": 3,
+      "description": "herramienta de diagramación basada en la web"
+    },
+    {
+      "name": "unity",
+      "category_program_id": 3,
+      "description": "motor de videojuego multiplataforma"
+    },
+    {
+      "name": "adobe audition",
+      "category_program_id": 4,
+      "description": "plataforma de edición de audio"
+    },
+    {
+      "name": "Audacity",
+      "category_program_id": 4,
+      "description": "grabación y edición de audio"
+    },
+    {
+      "name": "FL studio",
+      "category_program_id": 4,
+      "description": "estación de trabajo de audio digital"
+    },
+    {
+      "name": "virtual DJ",
+      "category_program_id": 4,
+      "description": "Software para DJ"
+    },
+    {
+      "name": "Mixx",
+      "category_program_id": 4,
+      "description": "Software para DJ"
+    },
+    {
+      "name": "adobe illustrator",
+      "category_program_id": 5,
+      "description": "editor de gráficos vectoriales"
+    },
+    {
+      "name": "adobe photoshop",
+      "category_program_id": 5,
+      "description": "editor de fotografías"
+    },
+    {
+      "name": "adobe xd",
+      "category_program_id": 5,
+      "description": "editor de gráficos vectoriales enfocado en la UX"
+    },
+    {
+      "name": "adobe premiere",
+      "category_program_id": 5,
+      "description": "edición de video"
+    },
+    {
+      "name": "adobe after effects",
+      "category_program_id": 5,
+      "description": "realización de gráficos profesionales en movimiento y efectos especiales"
+    },
+    {
+      "name": "sony vegas pro",
+      "category_program_id": 5,
+      "description": "edición de vídeo de tipo edición no lineal"
+    },
+    {
+      "name": "davinci resolve",
+      "category_program_id": 5,
+      "description": "edición de video no lineal"
+    },
+    {
+      "name": "Corel Draw",
+      "category_program_id": 5,
+      "description": "diseño gráfico vectorial"
+    },
+    {
+      "name": "Adobe Lightroom",
+      "category_program_id": 5,
+      "description": "Programa profesional de fotografía digital"
+    },
+    {
+      "name": "CONCAR",
+      "category_program_id": 6,
+      "description": "Software contable de perú"
+    },
+    {
+      "name": "CONTASIS",
+      "category_program_id": 6,
+      "description": "plataforma de gestión en la nube"
+    },
+    {
+      "name": "SISCONT",
+      "category_program_id": 6,
+      "description": "software contable financiero en el perú"
+    },
+    {
+      "name": "STARSOFT",
+      "category_program_id": 6,
+      "description": "Software contable de perú"
+    },
+    {
+      "name": "OBS Studio",
+      "category_program_id": 7,
+      "description": "servicio de retransmisión en directo"
+    },
+    {
+      "name": "Twitch Studio",
+      "category_program_id": 7,
+      "description": "servicio de retransmisión en directo de twitch"
+    },
+    {
+      "name": "Muxy",
+      "category_program_id": 7,
+      "description": "herramientas para transmisiones en vivo"
+    },
+    {
+      "name": "stream elements",
+      "category_program_id": 7,
+      "description": "herramientas para transmisiones en vivo"
+    },
+    {
+      "name": "streamlabs OBS",
+      "category_program_id": 7,
+      "description": "servicio de retransmisión en directo"
+    },
+    {
+      "name": "steam",
+      "category_program_id": 8,
+      "description": "plataforma de distribución digital de videojuegos"
+    },
+    {
+      "name": "epic games",
+      "category_program_id": 8,
+      "description": "plataforma de distribución digital de videojuegos"
+    },
+    {
+      "name": "msi afterburner",
+      "category_program_id": 8,
+      "description": "software para tarjetas gráficas"
+    },
+    {
+      "name": "discord",
+      "category_program_id": 8,
+      "description": "servicio de mensajería instantánea freeware de chat de voz"
+    },
+    {
+      "name": "origin",
+      "category_program_id": 8,
+      "description": "plataforma de distribución digital de videojuegos"
+    },
+    {
+      "name": "battle net",
+      "category_program_id": 8,
+      "description": "plataforma de videojuegos de Blizzard"
+    },
+    {
+      "name": "geforce experience",
+      "category_program_id": 8,
+      "description": "plataforma de experiencia de juego de geforce"
+    },
+    {
+      "name": "Fornite",
+      "category_program_id": 9,
+      "description": null
+    },
+    {
+      "name": "Valorant",
+      "category_program_id": 9,
+      "description": null
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "category_program_id": 9,
+      "description": null
+    },
+    {
+      "name": "League of Legends",
+      "category_program_id": 9,
+      "description": null
+    },
+    {
+      "name": "Dota 2",
+      "category_program_id": 9,
+      "description": null
+    },
+    {
+      "name": "Call of Duty: Warzone",
+      "category_program_id": 9,
+      "description": null
+    },
+    {
+      "name": "SketchUp",
+      "category_program_id": 2,
+      "description": "Programa de diseño gráfico y modelado en tres dimensiones basado en caras"
+    }
+  ]

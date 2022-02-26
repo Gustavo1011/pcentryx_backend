@@ -1,5 +1,5 @@
 """
-ModelLaptop.py: File to define ModelLaptop Model
+model_laptop.py: File to define ModelLaptop Model
 """
 from app import db
 from libraries.utils import get_local_isoformat

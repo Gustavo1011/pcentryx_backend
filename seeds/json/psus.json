@@ -1,0 +1,20 @@
+[
+    {
+      "model_name": "ESTABILIZADOR 1000VA CDP R2CU-AVR1008i 8-T/4pt-USB",
+      "image_url": null,
+      "price": 128,
+      "category_peripheral_id": 8,
+      "attributes": {
+        "power": "1000 VA"
+      }
+    },
+    {
+      "model_name": "ESTABILIZADOR 1200VA FORZA FVR-1202USB 8-Tomas",
+      "image_url": null,
+      "price": 136,
+      "category_peripheral_id": 8,
+      "attributes": {
+        "power": "1200 VA"
+      }
+    }
+  ]

@@ -1,0 +1,51 @@
+[
+    {
+      "model_name": "MOUSE GAMING COOLER MASTER MM711 WHITE MATTE, DPI 16000, RGB",
+      "image_url": null,
+      "price": 247,
+      "is_rgb": true,
+      "category_peripheral_id": 6,
+      "attributes": {
+        "sensor": "Óptico",
+        "dpi": "16000",
+        "colour": "blanco o negro"
+      }
+    },
+    {
+      "model_name": "MOUSE GAMING COOLER MASTER CM110 DPI 6000 RGB",
+      "image_url": null,
+      "price": 148,
+      "is_rgb": true,
+      "category_peripheral_id": 6,
+      "attributes": {
+        "sensor": "Óptico",
+        "dpi": "6000",
+        "colour": null
+      }
+    },
+    {
+      "model_name": "MOUSE GAMING ANTRYX CHROME STORM M650",
+      "image_url": null,
+      "price": 109,
+      "is_rgb": true,
+      "category_peripheral_id": 6,
+      "attributes": {
+        "sensor": "Óptico",
+        "dpi": "4200",
+        "colour": null
+      }
+    },
+    {
+      "model_name": "MOUSE GAMING WIRELESS ANTRYX CHROME STORM SCORPIO II",
+      "image_url": null,
+      "price": 172,
+      "is_rgb": true,
+      "category_peripheral_id": 6,
+      "attributes": {
+        "sensor": "Óptico",
+        "dpi": "10000",
+        "colour": null
+      }
+    }
+  ]
+    

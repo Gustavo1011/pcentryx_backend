@@ -14,11 +14,14 @@ class InstantUser(BaseDB, db.Model):
     __tablename__ = relator.plural_name
 
     id = ManageFieldsDB.db_primary_key()
-    name = ManageFieldsDB.db_string(250)
+    name = ManageFieldsDB.db_string(180)
     email = ManageFieldsDB.db_string(128)
     phone_number = ManageFieldsDB.db_string(50)
+    type_work = ManageFieldsDB.db_integer()
+    for_purchase = ManageFieldsDB.db_boolean(default=False)
+    
 
-
+    purchase_requests = relator.has_many('PurchaseRequest')
     user_requests = relator.has_many('UserRequest')
     user_deliveries = relator.has_many('UserDelivery')
 
@@ -30,7 +33,8 @@ class InstantUser(BaseDB, db.Model):
             "email": self.email,
             "created_at": self.created_at.isoformat(timespec='milliseconds'),
             "updated_at": self.updated_at and self.updated_at.isoformat(timespec='milliseconds'),
-            "phone_number": self.phone_number,
+            "type_work": self.type_work,
+            "for_purchase": self.for_purchase,
             "deleted": self.deleted
         }
 
@@ -40,3 +44,4 @@ class InstantUser(BaseDB, db.Model):
                 entity["updated_at"] = get_local_isoformat(self.updated_at)
 
         return entity
+

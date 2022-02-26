@@ -24,9 +24,6 @@ class TypeDefectiveComponentSeeder(Seeder): # pylint: disable=too-few-public-met
                 for type_defective_component in data:
                     register_type_defective_component = TypeDefectiveComponent(
                         name=type_defective_component['name'],
-                        image_url=type_defective_component['image_url'],
-                        min_amount=type_defective_component['min_amount'],
-                        max_amount=type_defective_component['max_amount'],
                         type_computer_id=type_defective_component['type_computer_id']
                     )
                     db.session.add(register_type_defective_component)

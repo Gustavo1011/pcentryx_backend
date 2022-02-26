@@ -1,0 +1,402 @@
+[
+  {
+    "range_price_component": "200 a 300",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 1
+  },
+  {
+    "range_price_component": "500 a 700",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 2
+  },
+  {
+    "range_price_component": "30 a 60",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 3
+  },
+  {
+    "range_price_component": "300 a 500",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 4
+  },
+  {
+    "range_price_component": "500 a 750",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 5
+  },
+  {
+    "range_price_component": "150 a 300",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 6
+  },
+  {
+    "range_price_component": "550 a 700",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 7
+  },
+  {
+    "range_price_component": "50 a 80",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 8
+  },
+  {
+    "range_price_component": "70 a 180",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 9
+  },
+  {
+    "range_price_component": "100 a 200",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 10
+  },
+  {
+    "range_price_component": "100 a 200",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 11
+  },
+  {
+    "range_price_component": "100 a 180",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 12
+  },
+  {
+    "range_price_component": "80 a 130",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 13
+  },
+  {
+    "range_price_component": "50 a 100",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 14
+  },
+  {
+    "range_price_component": "50 a 120",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 15
+  },
+  {
+    "range_price_component": "350 a 500",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 16
+  },
+  {
+    "range_price_component": "50 a 90",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 17
+  },
+  {
+    "range_price_component": "50 a 150",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 18
+  },
+  {
+    "range_price_component": "70 a 100",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 19
+  },
+  {
+    "range_price_component": "60 a 150",
+    "computer_cost_range_id": 1,
+    "type_defective_component_id": 20
+  },
+  {
+    "range_price_component": "300 a 600",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 1
+  },
+  {
+    "range_price_component": "750 a 1500",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 2
+  },
+  {
+    "range_price_component": "60 a 150",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 3
+  },
+  {
+    "range_price_component": "400 a 800",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 4
+  },
+  {
+    "range_price_component": "750 a 1800",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 5
+  },
+  {
+    "range_price_component": "250 a 500",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 6
+  },
+  {
+    "range_price_component": "900 a 1200",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 7
+  },
+  {
+    "range_price_component": "80 a 250",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 8
+  },
+  {
+    "range_price_component": "100 a 600",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 9
+  },
+  {
+    "range_price_component": "100 a 300",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 10
+  },
+  {
+    "range_price_component": "200 a 300",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 11
+  },
+  {
+    "range_price_component": "150 a 250",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 12
+  },
+  {
+    "range_price_component": "100 a 150",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 13
+  },
+  {
+    "range_price_component": "80 a 150",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 14
+  },
+  {
+    "range_price_component": "80 a 150",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 15
+  },
+  {
+    "range_price_component": "500 a 800",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 16
+  },
+  {
+    "range_price_component": "50 a 150",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 17
+  },
+  {
+    "range_price_component": "60 a 200",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 18
+  },
+  {
+    "range_price_component": "70 a 150",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 19
+  },
+  {
+    "range_price_component": "100 a 180",
+    "computer_cost_range_id": 2,
+    "type_defective_component_id": 20
+  },
+  {
+    "range_price_component": "600 a 1000",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 1
+  },
+  {
+    "range_price_component": "850 a 2000",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 2
+  },
+  {
+    "range_price_component": "150 a 300",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 3
+  },
+  {
+    "range_price_component": "800 a 1500",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 4
+  },
+  {
+    "range_price_component": "1800 a 4000",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 5
+  },
+  {
+    "range_price_component": "300 a 600",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 6
+  },
+  {
+    "range_price_component": "2200 a 10000",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 7
+  },
+  {
+    "range_price_component": "250 a 600",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 8
+  },
+  {
+    "range_price_component": "500 a 1000",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 9
+  },
+  {
+    "range_price_component": "150 a 500",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 10
+  },
+  {
+    "range_price_component": "100 a 500",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 11
+  },
+  {
+    "range_price_component": "150 a 300",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 12
+  },
+  {
+    "range_price_component": "100 a 200",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 13
+  },
+  {
+    "range_price_component": "90 a 180",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 14
+  },
+  {
+    "range_price_component": "90 a 180",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 15
+  },
+  {
+    "range_price_component": "600 a 1500",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 16
+  },
+  {
+    "range_price_component": "90 a 180",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 17
+  },
+  {
+    "range_price_component": "80 a 300",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 18
+  },
+  {
+    "range_price_component": "100 a 300",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 19
+  },
+  {
+    "range_price_component": "120 a 300",
+    "computer_cost_range_id": 3,
+    "type_defective_component_id": 20
+  },
+  {
+    "range_price_component": "600 a 1000",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 1
+  },
+  {
+    "range_price_component": "850 a 2000",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 2
+  },
+  {
+    "range_price_component": "150 a 300",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 3
+  },
+  {
+    "range_price_component": "800 a 1500",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 4
+  },
+  {
+    "range_price_component": "1800 a 4000",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 5
+  },
+  {
+    "range_price_component": "300 a 600",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 6
+  },
+  {
+    "range_price_component": "2200 a 10000",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 7
+  },
+  {
+    "range_price_component": "250 a 600",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 8
+  },
+  {
+    "range_price_component": "500 a 1000",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 9
+  },
+  {
+    "range_price_component": "150 a 500",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 10
+  },
+  {
+    "range_price_component": "100 a 500",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 11
+  },
+  {
+    "range_price_component": "150 a 300",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 12
+  },
+  {
+    "range_price_component": "100 a 200",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 13
+  },
+  {
+    "range_price_component": "90 a 180",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 14
+  },
+  {
+    "range_price_component": "90 a 180",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 15
+  },
+  {
+    "range_price_component": "600 a 1500",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 16
+  },
+  {
+    "range_price_component": "90 a 180",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 17
+  },
+  {
+    "range_price_component": "80 a 300",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 18
+  },
+  {
+    "range_price_component": "100 a 300",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 19
+  },
+  {
+    "range_price_component": "120 a 300",
+    "computer_cost_range_id": 4,
+    "type_defective_component_id": 20
+  }
+]

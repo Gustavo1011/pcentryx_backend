@@ -1,0 +1,343 @@
+[
+    {
+      "name": "Serie CT-1",
+      "image_url": null,
+      "price": 2046,
+      "ranking": 2.0,
+      "cpu_name": "Intel Core i3-10105",
+      "gpu_name": null,
+      "ram_name": "RAM 8GB DDR4 2.6 GHZ",
+      "storage": "SSD 240GB M.2",
+      "case": "Antryx Xtreme Micro XM-310",
+      "psu_name": "Antryx B500W",
+      "budget_pc_id": 1,
+      "pc_specification_programs": [
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 2
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 3
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 4
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 5
+        }
+      ]
+    },
+    {
+      "name": "Serie CT-2",
+      "image_url": null,
+      "price": 3114,
+      "ranking": 2.5,
+      "cpu_name": "Intel Core i5-11400",
+      "gpu_name": null,
+      "ram_name": "RAM 8GB DDR4 3.2 GHZ (x2)",
+      "storage": "SSD 480GB M.2, HDD 1TB 3.5'' ",
+      "case": "CM MASTERBOX Q300L",
+      "psu_name": "Cooler Master ELITE V4 500W 80P+ White 230V ",
+      "budget_pc_id": 2,
+      "pc_specification_programs": [
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 2
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 3
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 4
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 5
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 33
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 34
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 18
+        }
+      ]
+    },
+    {
+      "name": "Serie DS-1",
+      "image_url": null,
+      "price": 3856,
+      "ranking": 4.0,
+      "cpu_name": "AMD RYZEN 7 5700G",
+      "gpu_name": null,
+      "ram_name": "RAM 8GB DDR4 3.2 GHZ (x2)",
+      "storage": "SSD 250GB NVME, HDD 1TB 3.5'' ",
+      "case": "SILVER VOLT DEMON 200-2",
+      "psu_name": "Cooler Master MWE BRONZE V2 550W",
+      "budget_pc_id": 4,
+      "pc_specification_programs": [
+        {
+          "average_fps": "60 FPS",
+          "image_url": null,
+          "program_id": 58
+        },
+        {
+          "average_fps": "90 FPS",
+          "image_url": null,
+          "program_id": 59
+        },
+        {
+          "average_fps": "130 FPS",
+          "image_url": null,
+          "program_id": 60
+        },
+        {
+          "average_fps": "100 FPS",
+          "image_url": null,
+          "program_id": 61
+        },
+        {
+          "average_fps": "80 FPS",
+          "image_url": null,
+          "program_id": 62
+        },
+        {
+          "average_fps": "40 FPS",
+          "image_url": null,
+          "program_id": 63
+        }
+      ]
+    },
+    {
+      "name": "Serie DS-2",
+      "image_url": null,
+      "price": 5709,
+      "ranking": 4.5,
+      "cpu_name": "INTEL CORE I5-11400",
+      "gpu_name": "ASUS PHNX GTX 1650 4GB GDRR6",
+      "ram_name": "RAM 8GB DDR4 3.2 GHZ RGB (x2)",
+      "storage": "SSD 250GB NVME, HDD 1TB 3.5'' ",
+      "case": "ANTEC DF600 FLUX BLACK",
+      "psu_name": "EVGA 600W 80+ BRONZE ",
+      "budget_pc_id": 5,
+      "pc_specification_programs": [
+        {
+          "average_fps": "100 FPS",
+          "image_url": null,
+          "program_id": 58
+        },
+        {
+          "average_fps": "200 FPS",
+          "image_url": null,
+          "program_id": 59
+        },
+        {
+          "average_fps": "200 FPS",
+          "image_url": null,
+          "program_id": 60
+        },
+        {
+          "average_fps": "180 FPS",
+          "image_url": null,
+          "program_id": 61
+        },
+        {
+          "average_fps": "120 FPS",
+          "image_url": null,
+          "program_id": 62
+        },
+        {
+          "average_fps": "70 FPS",
+          "image_url": null,
+          "program_id": 63
+        }
+      ]
+    },
+    {
+      "name": "Serie DS-3",
+      "image_url": null,
+      "price": 9312,
+      "ranking": 5.0,
+      "cpu_name": "AMD RYZEN 5 5600X",
+      "gpu_name": "VGA 12G AS RX6700XT DUAL GDDR6",
+      "ram_name": "RAM 8GB DDR4 3.2 GHZ RGB (x2)",
+      "storage": "SSD 500GB M.2, HDD 1TB 3.5'' ",
+      "case": "CORSAIR 470T RGB BK",
+      "psu_name": "CM MWE V2 750W 80+ BRONZE",
+      "budget_pc_id": 6,
+      "pc_specification_programs": [
+        {
+          "average_fps": "250 FPS",
+          "image_url": null,
+          "program_id": 58
+        },
+        {
+          "average_fps": "400 FPS",
+          "image_url": null,
+          "program_id": 59
+        },
+        {
+          "average_fps": "350 FPS",
+          "image_url": null,
+          "program_id": 60
+        },
+        {
+          "average_fps": "250 FPS",
+          "image_url": null,
+          "program_id": 61
+        },
+        {
+          "average_fps": "180 FPS",
+          "image_url": null,
+          "program_id": 62
+        },
+        {
+          "average_fps": "140 FPS",
+          "image_url": null,
+          "program_id": 63
+        }
+      ]
+    },
+    {
+      "name": "Serie CX-1",
+      "image_url": null,
+      "price": 4315,
+      "ranking": 3.5,
+      "cpu_name": "INTEL CORE I5-10400",
+      "gpu_name": "ASUS GTX 1050 TI 4GB GDDR5",
+      "ram_name": "RAM 8GB DDR4 3.2 GHZ (x2)",
+      "storage": "SSD 240GB M.2, HDD 1TB 3.5'' ",
+      "case": "CASE ANTRYX RX 460 BLACK",
+      "psu_name": "CM MWE 550W 80+ BRONZE",
+      "budget_pc_id": 7,
+      "pc_specification_programs": [
+       {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 33
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 34
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 36
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 37
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 41
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 39
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 14
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 16
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 64
+        }
+      ]
+    },
+    {
+      "name": "Serie CX-2",
+      "image_url": null,
+      "price": 7291,
+      "ranking": 4.0,
+      "cpu_name": "INTEL CORE I7-10700K",
+      "gpu_name": "ZOTAC GTX 1660TI 6GB GDDR6",
+      "ram_name": "RAM 8GB DDR4 3.2 GHZ RGB (x2)",
+      "storage": "SSD SATA 480GB, HDD 1TB 3.5'' ",
+      "case": "LIAN LI LANCOOL 205 BLACK",
+      "psu_name": "CM MWE 750W 80+ GOLD ",
+      "budget_pc_id": 8,
+      "pc_specification_programs": [
+       {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 36
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 37
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 16
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 14
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 64
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 27
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 15
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 17
+        },
+        {
+          "average_fps": null,
+          "image_url": null,
+          "program_id": 39
+        }
+      ]
+    }
+  ]
+  

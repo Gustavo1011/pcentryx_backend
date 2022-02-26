@@ -1,0 +1,58 @@
+[
+    {
+      "model_name": "KIT GAMING TECLADO + MOUSE COOLER MASTER MASTERSET 111 RGB",
+      "image_url": null,
+      "price": 268,
+      "is_rgb": true,
+      "category_peripheral_id": 4,
+      "attributes": {
+        "type_keyboard": "Membrana",
+        "output_keyboard": "USB"
+      }
+    },
+    {
+      "model_name": "KIT GAMING TECLADO + MOUSE ANTRYX CHROME STORM GC-2500",
+      "image_url": null,
+      "price": 209,
+      "is_rgb": true,
+      "category_peripheral_id": 4,
+      "attributes": {
+        "type_keyboard": "Membrana",
+        "output_keyboard": "USB"
+      }
+    },
+    {
+      "model_name": "KIT WIRELESS TECLADO + MOUSE ANTRYX DS WS960, HOLDER SLOT",
+      "image_url": null,
+      "price": 113,
+      "is_rgb": false,
+      "category_peripheral_id": 4,
+      "attributes": {
+        "type_keyboard": "Membrana",
+        "output_keyboard": "Wireless"
+      }
+    },
+    {
+      "model_name": "KIT TECLADO + MOUSE ANTRYX PRECISION PS950",
+      "image_url": null,
+      "price": 200,
+      "is_rgb": false,
+      "category_peripheral_id": 4,
+      "attributes": {
+        "type_keyboard": "Membrana",
+        "output_keyboard": "USB"
+      }
+    },
+    {
+      "model_name": "TECLADO+MOUSE LOGITECH MK120 USB resistente",
+      "image_url": null,
+      "price": 100,
+      "is_rgb": false,
+      "category_peripheral_id": 4,
+      "attributes": {
+        "type_keyboard": "Membrana",
+        "output_keyboard": "USB"
+      }
+    }
+  ]
+    

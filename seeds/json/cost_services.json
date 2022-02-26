@@ -1,0 +1,122 @@
+[
+  {
+    "amount": "50",
+    "computer_cost_range_id": 1,
+    "service_id": 5
+  },
+  {
+    "amount": "80",
+    "computer_cost_range_id": 1,
+    "service_id": 6
+  },
+  {
+    "amount": "120",
+    "computer_cost_range_id": 1,
+    "service_id": 7
+  },
+  {
+    "amount": "60",
+    "computer_cost_range_id": 2,
+    "service_id": 5
+  },
+  {
+    "amount": "100",
+    "computer_cost_range_id": 2,
+    "service_id": 6
+  },
+  {
+    "amount": "140",
+    "computer_cost_range_id": 2,
+    "service_id": 7
+  },
+  {
+    "amount": "100",
+    "computer_cost_range_id": 3,
+    "service_id": 5
+  },
+  {
+    "amount": "200",
+    "computer_cost_range_id": 3,
+    "service_id": 6
+  },
+  {
+    "amount": "240",
+    "computer_cost_range_id": 3,
+    "service_id": 7
+  },
+  {
+    "amount": "100",
+    "computer_cost_range_id": 4,
+    "service_id": 5
+  },
+  {
+    "amount": "200",
+    "computer_cost_range_id": 4,
+    "service_id": 6
+  },
+  {
+    "amount": "240",
+    "computer_cost_range_id": 4,
+    "service_id": 7
+  },
+  {
+    "amount": "50",
+    "computer_cost_range_id": 1,
+    "service_id": 13
+  },
+  {
+    "amount": "80",
+    "computer_cost_range_id": 1,
+    "service_id": 14
+  },
+  {
+    "amount": "120",
+    "computer_cost_range_id": 1,
+    "service_id": 15
+  },
+  {
+    "amount": "60",
+    "computer_cost_range_id": 2,
+    "service_id": 13
+  },
+  {
+    "amount": "100",
+    "computer_cost_range_id": 2,
+    "service_id": 14
+  },
+  {
+    "amount": "140",
+    "computer_cost_range_id": 2,
+    "service_id": 15
+  },
+  {
+    "amount": "100",
+    "computer_cost_range_id": 3,
+    "service_id": 13
+  },
+  {
+    "amount": "200",
+    "computer_cost_range_id": 3,
+    "service_id": 14
+  },
+  {
+    "amount": "240",
+    "computer_cost_range_id": 3,
+    "service_id": 15
+  },
+  {
+    "amount": "100",
+    "computer_cost_range_id": 4,
+    "service_id": 5
+  },
+  {
+    "amount": "200",
+    "computer_cost_range_id": 4,
+    "service_id": 6
+  },
+  {
+    "amount": "240",
+    "computer_cost_range_id": 4,
+    "service_id": 7
+  }
+]

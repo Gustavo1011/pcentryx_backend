@@ -15,8 +15,8 @@ class UserPcData(BaseDB, db.Model):
 
     id = ManageFieldsDB.db_primary_key()
     operating_system = ManageFieldsDB.db_string(180)
-    vram_quantity = ManageFieldsDB.db_integer()
-    ram_quantity = ManageFieldsDB.db_integer()
+    vram_quantity = ManageFieldsDB.db_string(12)
+    ram_quantity = ManageFieldsDB.db_string(12)
     cpu_id = ManageFieldsDB.db_foreign_key('Cpu')
     graphic_card_id = ManageFieldsDB.db_foreign_key('GraphicCard')
     gpu_request_name = ManageFieldsDB.db_string(180, nullable=True)

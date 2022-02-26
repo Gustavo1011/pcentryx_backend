@@ -15,6 +15,24 @@ from seeds.cpu import CpuSeeder
 from seeds.model_laptop import ModelLaptopSeeder
 from seeds.graphic_card import GraphicCardSeeder
 from seeds.oauth import OauthSeeder
+from seeds.accessory import AccessorySeeder
+from seeds.budget_pc import BudgetPcSeeder
+from seeds.camera import CameraSeeder
+from seeds.category_peripheral import CategoryPeripheralSeeder
+from seeds.category_program import CategoryProgramSeeder
+from seeds.computer_cost_range import ComputerCostRangeSeeder
+from seeds.cost_range_defective_component import CostRangeDefectiveComponentSeeder
+from seeds.cost_service import CostServiceSeeder
+from seeds.headset import HeadsetSeeder
+from seeds.keyboard import KeyboardSeeder
+from seeds.kit_mouse_keyboard import KitMouseKeyboardSeeder
+from seeds.monitor import MonitorSeeder
+from seeds.mouse import MouseSeeder
+from seeds.pc_specification import PcSpecificationSeeder
+from seeds.program import ProgramSeeder
+from seeds.psu import PsuSeeder
+from seeds.speaker import SpeakerSeeder
+from seeds.use_type_pc import UseTypePcSeeder
 
 class DatabaseSeed: # pylint: disable=too-few-public-methods
     """Defined class to create Data Fake"""
@@ -47,6 +65,11 @@ class DatabaseSeed: # pylint: disable=too-few-public-methods
             # CORE
             # DUDAS
             {"name": "OAuth", "seed": OauthSeeder(self.db), "required": True},
+            {"name": "UseTypePc", "seed": UseTypePcSeeder(self.db), "required": True},
+            {"name": "BudgetPc", "seed": BudgetPcSeeder(self.db), "required": True},
+            {"name": "CategoryProgram", "seed": CategoryProgramSeeder(self.db), "required": True},
+            {"name": "CategoryPeripheral", "seed": CategoryPeripheralSeeder(self.db), "required": True},
+            {"name": "ComputerCostRange", "seed": ComputerCostRangeSeeder(self.db), "required": True},
             {"name": "TypeComputer", "seed": TypeComputerSeeder(self.db), "required": True},
             {"name": "TypeService", "seed": TypeServiceSeeder(self.db), "required": True},
             {"name": "TypeSubService", "seed": TypeSubServiceSeeder(self.db), "required": True},
@@ -56,7 +79,19 @@ class DatabaseSeed: # pylint: disable=too-few-public-methods
             {"name": "graphic_card", "seed": GraphicCardSeeder(self.db), "required": False},
             {"name": "ModelLaptop", "seed": ModelLaptopSeeder(self.db), "required": False},
             {"name": "TypeDefectiveComponent", "seed": TypeDefectiveComponentSeeder(self.db), "required": True},
-            {"name": "Service", "seed": ServiceSeeder(self.db), "required": True}
+            {"name": "Service", "seed": ServiceSeeder(self.db), "required": True},
+            {"name": "CostRangeDefectiveComponent", "seed": CostRangeDefectiveComponentSeeder(self.db), "required": False},
+            {"name": "CostService", "seed": CostServiceSeeder(self.db), "required": True},
+            {"name": "Accessory", "seed": AccessorySeeder(self.db), "required": True},
+            {"name": "Camera", "seed": CameraSeeder(self.db), "required": True},
+            {"name": "Headset", "seed": HeadsetSeeder(self.db), "required": True},
+            {"name": "Keyboard", "seed": KeyboardSeeder(self.db), "required": True},
+            {"name": "KitMouseKeyboard", "seed": KitMouseKeyboardSeeder(self.db), "required": True},
+            {"name": "Monitor", "seed": MonitorSeeder(self.db), "required": True},
+            {"name": "Mouse", "seed": MouseSeeder(self.db), "required": True},
+            {"name": "Program", "seed": ProgramSeeder(self.db), "required": True},
+            {"name": "Psu", "seed": PsuSeeder(self.db), "required": True},
+            {"name": "PcSpecification", "seed": PcSpecificationSeeder(self.db), "required": True},
             # ESTÁTICAS
             # ERP
         ]      

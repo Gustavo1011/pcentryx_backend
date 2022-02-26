@@ -19,7 +19,7 @@ class ModelLaptopSeeder(Seeder): # pylint: disable=too-few-public-methods
     def run(self):  # pylint: disable=too-many-locals
         app_setting = os.getenv('CREATE_SEED', 'deployment')
         if app_setting == 'deployment':
-            with open('/app/seeds/json/model_laptop.json') as file:
+            with open('/app/seeds/json/model_laptops.json') as file:
                 data = json.load(file)
                 for model_laptop in data:
                     register_model_laptop = ModelLaptop(

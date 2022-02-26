@@ -24,7 +24,32 @@ from models.user_laptop_data import UserLaptopData
 from models.user_pc_data import UserPcData
 from models.user_request_defective_component import UserRequestDefectiveComponent
 from models.user_request import UserRequest
-
+from models.accessory import Accessory
+from models.billing_detail import BillingDetail
+from models.billing_detail_company import BillingDetailCompany
+from models.billing_detail_natural_person import BillingDetailNaturalPerson
+from models.budget_pc import BudgetPc
+from models.camera import Camera
+from models.category_peripheral import CategoryPeripheral
+from models.category_program import CategoryProgram
+from models.computer_cost_range import ComputerCostRange
+from models.cost_range_defective_component import CostRangeDefectiveComponent
+from models.cost_service import CostService
+from models.headset import Headset
+from models.keyboard import Keyboard
+from models.kit_mouse_keyboard import KitMouseKeyboard
+from models.monitor import Monitor
+from models.mouse import Mouse
+from models.pc_specification import PcSpecification
+from models.pc_specification_program import PcSpecificationProgram
+from models.peripheral import Peripheral
+from models.program import Program
+from models.psu import Psu
+from models.purchase_request import PurchaseRequest
+from models.purchase_request_peripheral import PurchaseRequestPeripheral
+from models.purchase_request_program import PurchaseRequestProgram
+from models.speaker import Speaker
+from models.use_type_pc import UseTypePc
 
 
 from models.oauth2 import OAuthClient

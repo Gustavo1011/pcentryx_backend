@@ -19,12 +19,11 @@ class BrandLaptopSeeder(Seeder): # pylint: disable=too-few-public-methods
     def run(self):  # pylint: disable=too-many-locals
         app_setting = os.getenv('CREATE_SEED', 'deployment')
         if app_setting == 'deployment':
-            with open('/app/seeds/json/brand_laptop.json') as file:
+            with open('/app/seeds/json/brand_laptops.json') as file:
                 data = json.load(file)
                 for brand_laptop in data:
                     register_brand_laptop = BrandLaptop(
-                        name=brand_laptop['name'],
-                        image_url=brand_laptop['image_url']
+                        name=brand_laptop['name']
                     )
                     db.session.add(register_brand_laptop)
                 db.session.commit()

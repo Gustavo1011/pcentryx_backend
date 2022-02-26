@@ -326,5 +326,9 @@
   {
     "name": "GeForce RTX 3090 Ti",
     "brand_component_id": 3
+  },
+  {
+    "name": "Otro",
+    "brand_component_id": 3
   }
 ]

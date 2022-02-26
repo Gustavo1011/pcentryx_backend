@@ -1,5 +1,5 @@
 """
-service.py: File to define Services Model
+service.py: File to define Service Model
 """
 from app import db
 from libraries.utils import get_local_isoformat
@@ -14,7 +14,7 @@ class Service(BaseDB, db.Model):
     __tablename__ = relator.plural_name
 
     id = ManageFieldsDB.db_primary_key()
-    amount = ManageFieldsDB.db_integer()
+    amount = ManageFieldsDB.db_string(10, nullable=True)
     type_computer_id = ManageFieldsDB.db_foreign_key('TypeComputer')
     minimal_type_service_id = ManageFieldsDB.db_foreign_key('MinimalTypeService')
     description = ManageFieldsDB.db_text(nullable=True)
@@ -22,6 +22,7 @@ class Service(BaseDB, db.Model):
     type_computer = relator.has_one('TypeComputer')
     minimal_type_service = relator.has_one('MinimalTypeService')
     user_requests = relator.has_many('UserRequest')
+    cost_services = relator.has_many('CostService')
 
     def get_response(self, **kwargs):
         """Return response"""

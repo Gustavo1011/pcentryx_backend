@@ -1,0 +1,87 @@
+[
+    {
+      "model_name": "AUDIFONO C/MICROFONO ANTRYX CHROME STORM KLIPER 7.1 VIRTUAL",
+      "image_url": null,
+      "price": 220,
+      "is_rgb": true,
+      "category_peripheral_id": 2,
+      "attributes": {
+        "sound": "7.1",
+        "microphone": true,
+        "output": "USB"
+      }
+    },
+    {
+      "model_name": "AUDIFONO C/MICROFONO ANTRYX CS THUNDER BLACK 7.1 VIRTUAL",
+      "image_url": null,
+      "price": 220,
+      "is_rgb": true,
+      "category_peripheral_id": 2,
+      "attributes": {
+        "sound": "7.1",
+        "microphone": true,
+        "output": "USB"
+      }
+    },
+    {
+      "model_name": "AUDIFONO C/MICROFONO BLUETOOTH ANTRYX DS H750BT BLACK, 2.1",
+      "image_url": null,
+      "price": 135,
+      "is_rgb": false,
+      "category_peripheral_id": 2,
+      "attributes": {
+        "sound": "2.1",
+        "microphone": true,
+        "output": "BLUETOOTH"
+      }
+    },
+    {
+      "model_name": "AUDIFONO C/MICROFONO ANTRYX XTREME GH-370",
+      "image_url": null,
+      "price": 108,
+      "is_rgb": false,
+      "category_peripheral_id": 2,
+      "attributes": {
+        "sound": "2.1",
+        "microphone": true,
+        "output": "USB"
+      }
+    },
+    {
+      "model_name": "AUDIFONO C/MICROFONO ANTRYX CHROME STORM GH-550 2.1, RGB",
+      "image_url": null,
+      "price": 139,
+      "is_rgb": true,
+      "category_peripheral_id": 2,
+      "attributes": {
+        "sound": "2.1",
+        "microphone": true,
+        "output": "USB"
+      }
+    },
+    {
+      "model_name": "AUDIFONO C/MICROFONO BLUETOOTH ANTRYX DS H850BT",
+      "image_url": null,
+      "price": 150,
+      "is_rgb": true,
+      "category_peripheral_id": 2,
+      "attributes": {
+        "sound": "2.1",
+        "microphone": true,
+        "output": "BLUETOOTH"
+      }
+    },
+    {
+      "model_name": "AUDIFONO C/MICROFONO ANTRYX DS H630 BLACK",
+      "image_url": null,
+      "price": 98,
+      "is_rgb": false,
+      "category_peripheral_id": 2,
+      "attributes": {
+        "sound": "2.1",
+        "microphone": true,
+        "output": "USB"
+      }
+    }
+  ]
+    

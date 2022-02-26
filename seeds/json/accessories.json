@@ -1,0 +1,17 @@
+[
+    {
+      "model_name": "RED Wi-Fi USB TP-LINK TL-WN722N 150MB 1antena ext.",
+      "image_url": null,
+      "price": 65,
+      "category_peripheral_id": 1,
+      "attributes": "Frecuencia: 2.4GHz Tasa de señal:150Mbps"
+    },
+    {
+      "model_name": "BLUETOOTH USB nano TP-LINK UB400 4.0",
+      "image_url": null,
+      "price": 57,
+      "category_peripheral_id": 1,
+      "attributes": "Estandar: Bluetooth 4.0 "
+    }
+  ]
+    

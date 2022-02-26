@@ -1,0 +1,38 @@
+[
+    {
+      "model_name": "TECLADO MECANICO COOLER MASTER CK550 V2",
+      "image_url": null,
+      "price": 405,
+      "is_rgb": true,
+      "category_peripheral_id": 9,
+      "attributes": {
+        "type": "Mecánico",
+        "switch": "Red",
+        "output": "USB 2.0"
+      }
+    },
+    {
+      "model_name": "TECLADO SEMI-MECANICO ANTRYX CHROME STORM SK570",
+      "image_url": null,
+      "price": 163,
+      "is_rgb": true,
+      "category_peripheral_id": 9,
+      "attributes": {
+        "type": "Semi-Mecánico",
+        "switch": null,
+        "output": "USB"
+      }
+    },
+    {
+      "model_name": "TECLADO MECANICO TKL ANTRYX CHROME STORM MK830",
+      "image_url": null,
+      "price": 236,
+      "is_rgb": true,
+      "category_peripheral_id": 9,
+      "attributes": {
+        "type": "Mecánico",
+        "switch": null,
+        "output": "USB"
+      }
+    }
+]

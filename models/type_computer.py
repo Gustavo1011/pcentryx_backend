@@ -15,7 +15,6 @@ class TypeComputer(BaseDB, db.Model):
 
     id = ManageFieldsDB.db_primary_key()
     name = ManageFieldsDB.db_string(128)
-    image_url = ManageFieldsDB.db_text(nullable=True)
 
     type_defective_components = relator.has_many('TypeDefectiveComponent')
     services = relator.has_many('Service')
@@ -25,7 +24,6 @@ class TypeComputer(BaseDB, db.Model):
         entity = {
             "id": self.id,
             "name": self.name,
-            "image_url": self.image_url,
             "created_at": self.created_at.isoformat(timespec='milliseconds'),
             "updated_at": self.updated_at and self.updated_at.isoformat(timespec='milliseconds'),
             "deleted": self.deleted
