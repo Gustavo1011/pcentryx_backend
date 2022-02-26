@@ -17,7 +17,7 @@ class Peripheral(BaseDB, db.Model):
     model_name = ManageFieldsDB.db_string(180)
     image_url = ManageFieldsDB.db_text(nullable=True)
     price = ManageFieldsDB.db_integer()
-    is_rgb = ManageFieldsDB.db_boolean(default=False, nullable=True)
+    is_rgb = ManageFieldsDB.db_boolean(nullable=True, default=None)
     category_peripheral_id = ManageFieldsDB.db_foreign_key('CategoryPeripheral')
 
     category_peripheral = relator.has_one('CategoryPeripheral')
