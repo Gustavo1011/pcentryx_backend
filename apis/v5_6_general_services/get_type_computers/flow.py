@@ -9,7 +9,6 @@ class GetTypeComputersFlow:
 
     def action(self):
         """ Función que define el flujo del API """
-
         type_computers = TypeComputer.query.filter_by(
             deleted=False
         ).all()
