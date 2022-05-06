@@ -4,9 +4,30 @@ info:
   version: "1.0"
 basePath: /erp
 tags:
-- name: User Maintenance
-- name: User Management
+- name: GeneralServices Management
+- name: Notification Maintenance
+- name: Global
+- name: Agent Management
 - name: User Access
+- name: Analyst Management
+- name: User Management
+- name: Warehouse Management
+- name: Tracking Number Process
+- name: Provider Management
+- name: Requisition Management
+- name: Main Provider Management
+- name: Requistion Management
+- name: Product Subcategory Management
+- name: Permission Management
+- name: Document History Management
+- name: Access Management
+- name: Provider Product Relationship
+- name: Product Prices Management
+- name: User Maintenance
+- name: Product Management
+- name: Product Category Management
+- name: Brand Management
+- name: Document Management
 paths:
   /login/:
     $ref: erp_modules/users/login.yaml
@@ -16,6 +37,9 @@ paths:
   /v5.2/users/{user_id}:
     get:
       $ref: erp_modules/v5_2_user/get_user.yaml
+  /v5.6/apis/type_computers/all:
+    get:
+      $ref: erp_modules/v5_6_general_services/get_type_computers.yaml
   /v5.6/apis/users/get_session:
     get:
       $ref: erp_modules/v5_6_user/get_session.yaml
