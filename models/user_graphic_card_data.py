@@ -1,5 +1,5 @@
 """
-GraphicCard.py: File to define GraphicCard Model
+user_graphic_card_data.py: File to define UserGraphicCardData Model
 """
 from app import db
 from libraries.utils import get_local_isoformat
@@ -7,25 +7,29 @@ from managers.class_utils.manage_db.base_db import BaseDB
 from managers.class_utils.manage_db.manage_fields_db import ManageFieldsDB
 from managers.class_utils.manage_db.manage_relations_db import ManageRelationsDB
 
-relator = ManageRelationsDB('GraphicCard')
+relator = ManageRelationsDB('UserGraphicCardData')
 
-class GraphicCard(BaseDB, db.Model):
-    """Defined class to GraphicCard Model"""
+class UserGraphicCardData(BaseDB, db.Model):
+    """Defined class to UserGraphicCardData Model"""
     __tablename__ = relator.plural_name
 
     id = ManageFieldsDB.db_primary_key()
-    name = ManageFieldsDB.db_string(180)
-    brand_component_id = ManageFieldsDB.db_foreign_key('BrandComponent')
+    user_pc_data_id = ManageFieldsDB.db_foreign_key('UserPcData')
+    vram_quantity = ManageFieldsDB.db_string(12)
+    graphic_card_id = ManageFieldsDB.db_foreign_key('GraphicCard', nullable=True)
+    gpu_request_name = ManageFieldsDB.db_string(180, nullable=True)
 
-    brand_component = relator.has_one('BrandComponent')
-    user_graphic_card_datas = relator.has_many('UserGraphicCardData')
+    graphic_card = relator.has_one('GraphicCard')
+    user_pc_data = relator.has_one('UserPcData')
 
     def get_response(self, **kwargs):
         """Return response"""
         entity = {
             "id": self.id,
-            "name": self.name,
-            "brand_component_id": self.brand_component_id,
+            "user_pc_data_id": self.user_pc_data_id,
+            "vram_quantity": self.vram_quantity,
+            "graphic_card_id": self.gpu_id,
+            "gpu_request_name": self.gpu_request_name,
             "created_at": self.created_at.isoformat(timespec='milliseconds'),
             "updated_at": self.updated_at and self.updated_at.isoformat(timespec='milliseconds'),
             "deleted": self.deleted

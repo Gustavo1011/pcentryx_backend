@@ -1,8 +1,8 @@
 """empty message
 
-Revision ID: 72bf7921fe21
+Revision ID: 50858bcbb244
 Revises: 
-Create Date: 2022-02-26 04:12:22.005924
+Create Date: 2022-05-06 01:55:58.721101
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '72bf7921fe21'
+revision = '50858bcbb244'
 down_revision = None
 branch_labels = None
 depends_on = None
@@ -36,7 +36,6 @@ def upgrade():
     sa.Column('deleted', sa.Boolean(), nullable=False),
     sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),
     sa.Column('name', sa.String(length=180), nullable=False),
-    sa.Column('image_url', sa.Text(), nullable=True),
     sa.PrimaryKeyConstraint('id')
     )
     op.create_index(op.f('ix_brand_components_id'), 'brand_components', ['id'], unique=False)
@@ -488,14 +487,11 @@ def upgrade():
     sa.Column('deleted', sa.Boolean(), nullable=False),
     sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),
     sa.Column('operating_system', sa.String(length=180), nullable=False),
-    sa.Column('vram_quantity', sa.String(length=12), nullable=False),
     sa.Column('ram_quantity', sa.String(length=12), nullable=False),
-    sa.Column('cpu_id', sa.Integer(), nullable=False, comment='cpus ID'),
-    sa.Column('graphic_card_id', sa.Integer(), nullable=False, comment='graphic_cards ID'),
-    sa.Column('gpu_request_name', sa.String(length=180), nullable=True),
+    sa.Column('cpu_id', sa.Integer(), nullable=True, comment='cpus ID'),
     sa.Column('cpu_request_name', sa.String(length=180), nullable=True),
+    sa.Column('dedicated_graphic_card', sa.Boolean(), nullable=False),
     sa.ForeignKeyConstraint(['cpu_id'], ['cpus.id'], ondelete='CASCADE'),
-    sa.ForeignKeyConstraint(['graphic_card_id'], ['graphic_cards.id'], ondelete='CASCADE'),
     sa.PrimaryKeyConstraint('id')
     )
     op.create_index(op.f('ix_user_pc_datas_id'), 'user_pc_datas', ['id'], unique=False)
@@ -541,6 +537,20 @@ def upgrade():
     sa.PrimaryKeyConstraint('id')
     )
     op.create_index(op.f('ix_purchase_requests_id'), 'purchase_requests', ['id'], unique=False)
+    op.create_table('user_graphic_card_datas',
+    sa.Column('created_at', sa.DateTime(timezone=True), nullable=False),
+    sa.Column('updated_at', sa.DateTime(timezone=True), nullable=True),
+    sa.Column('deleted', sa.Boolean(), nullable=False),
+    sa.Column('id', sa.Integer(), autoincrement=True, nullable=False),
+    sa.Column('user_pc_data_id', sa.Integer(), nullable=False, comment='user_pc_datas ID'),
+    sa.Column('vram_quantity', sa.String(length=12), nullable=False),
+    sa.Column('graphic_card_id', sa.Integer(), nullable=True, comment='graphic_cards ID'),
+    sa.Column('gpu_request_name', sa.String(length=180), nullable=True),
+    sa.ForeignKeyConstraint(['graphic_card_id'], ['graphic_cards.id'], ondelete='CASCADE'),
+    sa.ForeignKeyConstraint(['user_pc_data_id'], ['user_pc_datas.id'], ondelete='CASCADE'),
+    sa.PrimaryKeyConstraint('id')
+    )
+    op.create_index(op.f('ix_user_graphic_card_datas_id'), 'user_graphic_card_datas', ['id'], unique=False)
     op.create_table('user_requests',
     sa.Column('created_at', sa.DateTime(timezone=True), nullable=False),
     sa.Column('updated_at', sa.DateTime(timezone=True), nullable=True),
@@ -550,6 +560,7 @@ def upgrade():
     sa.Column('service_id', sa.Integer(), nullable=False, comment='services ID'),
     sa.Column('user_pc_data_id', sa.Integer(), nullable=True, comment='user_pc_datas ID'),
     sa.Column('user_laptop_data_id', sa.Integer(), nullable=True, comment='user_laptop_datas ID'),
+    sa.Column('for_pc', sa.Boolean(), nullable=False),
     sa.ForeignKeyConstraint(['instant_user_id'], ['instant_users.id'], ondelete='CASCADE'),
     sa.ForeignKeyConstraint(['service_id'], ['services.id'], ondelete='CASCADE'),
     sa.ForeignKeyConstraint(['user_laptop_data_id'], ['user_laptop_datas.id'], ondelete='CASCADE'),
@@ -606,6 +617,8 @@ def downgrade():
     op.drop_table('purchase_request_peripherals')
     op.drop_index(op.f('ix_user_requests_id'), table_name='user_requests')
     op.drop_table('user_requests')
+    op.drop_index(op.f('ix_user_graphic_card_datas_id'), table_name='user_graphic_card_datas')
+    op.drop_table('user_graphic_card_datas')
     op.drop_index(op.f('ix_purchase_requests_id'), table_name='purchase_requests')
     op.drop_table('purchase_requests')
     op.drop_index(op.f('ix_pc_specification_programs_id'), table_name='pc_specification_programs')

@@ -92,6 +92,7 @@ class DatabaseSeed: # pylint: disable=too-few-public-methods
             {"name": "Program", "seed": ProgramSeeder(self.db), "required": True},
             {"name": "Psu", "seed": PsuSeeder(self.db), "required": True},
             {"name": "PcSpecification", "seed": PcSpecificationSeeder(self.db), "required": True},
+            {"name": "Speaker", "seed": SpeakerSeeder(self.db), "required": False},
             # ESTÁTICAS
             # ERP
         ]      

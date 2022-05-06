@@ -32,12 +32,6 @@
   {
     "type_service_name": "Mantenimiento",
     "type_sub_service": {
-        "name": "Diagnóstico de Mantenimiento"
-    }
-  },
-  {
-    "type_service_name": "Mantenimiento",
-    "type_sub_service": {
       "name": "Paquete Básico"
     }
   },

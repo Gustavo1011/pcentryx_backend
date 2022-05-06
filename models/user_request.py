@@ -18,6 +18,7 @@ class UserRequest(BaseDB, db.Model):
     service_id = ManageFieldsDB.db_foreign_key('Service')
     user_pc_data_id = ManageFieldsDB.db_foreign_key('UserPcData', nullable=True)
     user_laptop_data_id = ManageFieldsDB.db_foreign_key('UserLaptopData', nullable=True)
+    for_pc = ManageFieldsDB.db_boolean(default=True)
 
     instant_user = relator.has_one('InstantUser')
     service = relator.has_one('Service')
@@ -35,7 +36,8 @@ class UserRequest(BaseDB, db.Model):
             "updated_at": self.updated_at and self.updated_at.isoformat(timespec='milliseconds'),
             "user_pc_data_id": self.user_pc_data_id,
             "user_laptop_data_id": self.user_laptop_data_id,
-            "deleted": self.deleted
+            "deleted": self.deleted,
+            "for_pc": self.for_pc
         }
 
         if kwargs.get('with_timezone', True):

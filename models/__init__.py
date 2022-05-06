@@ -50,6 +50,7 @@ from models.purchase_request_peripheral import PurchaseRequestPeripheral
 from models.purchase_request_program import PurchaseRequestProgram
 from models.speaker import Speaker
 from models.use_type_pc import UseTypePc
+from models.user_graphic_card_data import UserGraphicCardData
 
 
 from models.oauth2 import OAuthClient
